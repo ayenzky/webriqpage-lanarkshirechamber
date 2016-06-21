@@ -6,7 +6,7 @@ var calendar = {
 
       // ajax call to print json
       $.ajax({
-  				url: 'data/events.json',
+  				url: '../data/events.json',
   				type: 'GET',
   			})
   			.done(function(data) {

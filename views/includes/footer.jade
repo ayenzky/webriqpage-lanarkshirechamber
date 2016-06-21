@@ -57,10 +57,6 @@
 							// real people should not fill this in and expect good things - do not remove this or risk form bot signups
 							div(style='position: absolute; left: -5000px;', aria-hidden='true')
 								input(type='text', name='b_6596703f73a2a1a4d27315174_c93226dc2e', tabindex='-1', value='')
-
-				//- script(type='text/javascript', src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js')
-				script(type='text/javascript').
-					(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
 				// End mc_embed_signup
 
 
@@ -91,10 +87,10 @@
 
 script(src="../js/main.js")
 <!-- jQuery -->
-script(src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js")
+script(src="../js/jquery.js")
 script(src="../js/modernizr.custom.js")
 <!-- Bootstrap Core JavaScript -->
-script(src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js", integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS", crossorigin="anonymous")
+script(src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js", integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS", crossorigin="anonymous")
 
 <!-- Plugin JavaScript -->
 
@@ -107,10 +103,20 @@ script(src="../js/wow.min.js")
 <!-- Custom Theme JavaScript -->
 script(src="../js/jquery.imagesloaded.min.js")
 script(src="../js/cbpBGSlideshow.min.js")
+script(type='text/javascript', src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js')
 //- script(src="../js/creative.js")
 
 script(type="text/javascript").
 	$(function() {
 		cbpBGSlideshow.init();
-		$('.dropdown-toggle').dropdown()
 	});
+
+
+//- script(type='text/javascript').
+//- 	(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+
+
+
+//- <!-- Google Analytics -->
+//- script(type="text/javascript")
+//- 	!= records.site.sitedata[0].analytics
