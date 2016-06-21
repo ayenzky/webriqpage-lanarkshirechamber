@@ -5,197 +5,317 @@ base()
 
 body
   padding: 0px
-  font-family: "Open sans", Arial, sans-serif
+  font: $font-size/1.7 $source-sans-pro
+  font-weight: 400
+  color: $font-color
+
+h1, h2, h3, h4, h5
+  font-family: $source-sans-pro !important
+  font-weight: 300
+
+p, span, strong, li, a
+  font-family: $source-sans-pro !important
 
 a
-  color: blue-darken-1
+  color:purple
 
-a:hover, a:focus
-  color: blue-darken-2
+h1.title
+  font-weight:300
+  font-size: 36px !important
+  color: purple
+  text-transform: uppercase
 
-.team-box.text-center img
-  margin:0px auto;
-
-.team-box.text-center p strong
-  color: blue-darken-1
-
-section
-  background-color:#fff;
-
-section#services
-  border-bottom:1px solid #f1f1f1;
-
-.short-section.stats-bar
-  padding:20px 0px 30px 0px;
-
-.short-section.stats-bar .counter-item h2
-  font-weight:700;
-  font-size:46px
-
-.short-section.stats-bar .counter-item h6
-  text-transform:uppercase;
-  font-size:14px;
-  font-weight:300;
-
-
-.btn-primary
-  background-color: light-blue
-
-.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary
-  background-color: blue-darken-1
-
-.navbar-default.affix .navbar-header .navbar-brand,
-.navbar-default .nav > li.active>a, .navbar-default .nav>li.active>a:focus,
-.navbar-default.affix .nav > li>a:hover, .navbar-default.affix .nav>li>a:focus:hover,
-.navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus,
-.navbar-default .nav > li>a:hover, .navbar-default .nav>li>a:focus:hover
-  color: #fff
-
-#bs-example-navbar-collapse-1 > ul
+.col-right h1.title
+  font-weight: 600
+  text-transform: capitalize
   margin-top:0px
-  margin-bottom:0px
 
-#bs-example-navbar-collapse-1 > ul > li
-  @media (max-width:767px)
-    border-bottom: 1px solid #F6F6F6
-    box-shadow: 0px 0px 3px -1px #ddd
-    -webkit-box-shadow: 0px 0px 3px -1px #F1F1F1
+.container
+  position:relative
 
-.bg-primary
-  background-color: light-blue
+.right
+  float:right
+.left
+  float:left
 
-.text-primary
-  color: blue-lighten-1
+.navbar-nav li a
+  color:$font-color
+  padding:10px 15px
+  font-size:14px
+  font-weight:400
 
-hr
- border-color: blue-darken-1
+.navbar-nav li
+  text-transform:uppercase
 
-.portfolio-box .portfolio-box-caption
-  background-color: black
-  background-color: rgba(38, 178, 241, 0.8)
+.nav > li.dropdown.open > a,
+.nav > li > a:hover, .nav > li > a:focus
+  background-color: purple
+  color:white
 
-.navbar-default .navbar-toggle
-  border-color:#fff
+.nav > li.dropdown .caret
+  margin-top:-2px
 
-.navbar-default .navbar-toggle:focus,
-.navbar-default .navbar-toggle:hover{
-  background-color: transparent
-}
 
-.navbar-default .navbar-toggle .icon-bar
+.nav > li .dropdown-menu
+  padding-top: 0px
+  padding-bottom: 0px
+  border:none
+  overflow:hidden
+
+
+.nav > li .dropdown-menu li a:hover
+  background-color:#605371
+  color:#fff
+
+.nav > li:nth-child(2) .dropdown-menu a
+  color:#888
+  font-weight:400
+
+
+.nav > li:nth-child(3) .dropdown-menu > li > a:hover
   background-color:#fff
+  color:purple
+  cursor:default
 
-body.main header
-  min-height: 30%;
-  background-image: url(../img/header3.jpg);
-  background-position: top;
-  background-repeat:no-repeat;
+.nav > li .dropdown-menu .dropdown-menu-2
+  list-style:none
+  padding-left:0px
 
-.page header
-  padding: 20px 0px
-  text-align:left
-  color: #222
-  font-weight: 700
-
-body.main .content h2.title
-  border-bottom:1px solid #dfdfdf
-  padding-bottom:10px
-  margin-bottom:20px
+.nav > li .dropdown-menu > li > a
   font-weight:600
+  color: purple
 
-body.main .content h2.title strong
-  color: light-blue
-  font-weight:600
+.nav > li .dropdown-menu > li > a
+  border-top:1px solid #f3f3f3
+  box-shadow:0px 1px 1px 0px #f1f1f1
+  -webkit-box-shadow:0px 1px 1px 0px #f1f1f1
+  padding:10px
 
-body.main .addthis_sharing_toolbox
+
+
+.nav > li .dropdown-menu .dropdown-menu-2 a
+  display:block
+
+.nav > li .dropdown-menu .dropdown-menu-2  a::before,
+.nav > li:nth-child(2) .dropdown-menu  a::before
+  content:""
+  width:20px
+  height:20px
+  background: url(../img/stripe.png) 98% 2.4% no-repeat
+  float:left
+
+
+#header-wrapper
+  padding: 10px 0
+#header-wrapper, #main-wrapper
+  background-color:white
+
+#banner
+  padding: 245px 0 245px 0
+
+
+#main-banner
+  padding: 40px 0
+  background: #605371 url(../img/mainbannerbg.png) no-repeat 10% bottom
+
+#banner ul li .caption
+  position:absolute
+  bottom: 20%
+  left:8%
+  width:40%
+
+#banner ul li .caption h1
+  font-weight:700
+  color:white
+  text-shadow:1px 1px 1px #000
+  -webkit-text-shadow:1px 1px 1px #000
+
+#banner ul li .caption h3
+  font-weight:400
+  color:white
+  text-shadow:1px 1px 1px #000
+  -webkit-text-shadow:1px 1px 1px #000
+  -moz-text-shadow:1px 1px 1px #000
+  -o-text-shadow:1px 1px 1px #000
+  line-height:1.4
+
+
+#main-wrapper > .container, #footer-wrapper > .container
+  padding: 50px 15px
+
+#footer-wrapper
+  background-color: purple
+  color:white
+
+#footer-wrapper ul
+  padding-left: 0px
+  list-style: none
+
+#footer-wrapper ul#contact-details li::before
+  content: ""
+  width:25px
+  height:25px
+  float:left
+  background: url("../img/stripe.png") no-repeat -77px -5px
+
+#footer-wrapper ul li#phone::before
+  background-position: -77px -5px
+
+
+#footer-wrapper ul li#fax::before
+  background-position: -77px -40px
+
+
+#footer-wrapper ul li#email::before
+  background-position: -77px -75px
+
+#footer-wrapper #social-media li
+  display:inline-block
+  margin-right:5px
+
+#footer-wrapper #social-media
+  margin-top:25px
+
+.clear
   clear:both
 
+#footer-wrapper li a
+  color:white
 
-#panel
-  padding:0px
-  position:fixed
-  width:250px
-  z-index:1
-  top:39.5%
+#mc_embed_signup #mc_embed_signup_scroll input
+  height:45px
+  width:100%
+  border:none
+  padding:5px
+  outline:none
 
-  @media (max-width:767px)
-    position:relative
-    width:100%
+#mc_embed_signup #mc_embed_signup_scroll .mc-field-group
+  width:70%
+  float:left
+  border-top-left-radius:5px
+  -webkit-border-top-left-radius:5px
+  border-bottom-left-radius:5px
+  -webkit-border-bottom-left-radius:5px
+  overflow:hidden
+
+#mc_embed_signup #mc_embed_signup_scroll .mc-field-group input
+  color:#333
 
 
-#panel .list-group-item:first-child
-  background-color:blue-darken-1
-  color:#fff
+#mc_embed_signup #mc_embed_signup_scroll .mc-field-group-submit
+  width:30%
+  float:right
+  border-top-right-radius:5px
+  -webkit-border-top-right-radius:5px
+  border-bottom-right-radius:5px
+  -webkit-border-bottom-right-radius:5px
+  overflow:hidden
 
-#panel .list-group-item:first-child h4
-  margin:5px auto
+#mc_embed_signup #mc_embed_signup_scroll .mc-field-group-submit input
+  text-transform:uppercase
+  background-color:#564a66
+  color:#dedccd
 
-section#our-prices
-  background-color:#f7f7f7
 
-#contact
-  background-color:#222
-  color:#fff;
-  padding:50px 0px
-.footer #copyright
-  padding:0px
-  background-color:#1F1F1F
+#copyright
+  background-color: darken(purple, 4)
+  color: white
 
-.footer #copyright p
-  margin:0px
-  color:#555
-  padding:15px 0px
+#copyright p
+  padding-top: 10px
 
-#contact ul
-  margin-left:0px
-  padding-left:10px
+
+
+#menu-container
+  position:absolute
+  right:0px
+  bottom:-10px
+  text-align:right
+
+.navbar-brand
+  display:none
+
+#contact.right
+  margin-top: 20px
+
+
+#contact.right ul
   list-style:none
+  padding-left:0px
+  padding-right:10px
+  float:right
 
-#contact hr
-  border-color:#fff
-
-#contact a
-  color:#fff
-
-// Blog
-
-.main .blog
-  padding:0px
-  box-shadow:0px 1px 5px 0px #bbb
-  margin-bottom:20px
-
-.main .blog .blog-header h3
-  margin:0px
-  color:#fff
-
-.main .blog .blog-header
-  padding:15px
-  background-color:blue-darken-1
-
-.main .blog .blog-list .list
-  border-bottom: 1px solid #DFDFDF;
-  box-shadow: 0px 0px 3px -1px #FFF;
-  -webkit-box-shadow: 0px 0px 3px -1px #FFF;
-  padding:10px
-  background-color:#ECECEC
-
-.main .blog .blog-list .list h5
-  margin:4px auto
-.main .blog .blog-list .list a
-  color:#212121
-
-@media (min-width: 768px)
-  .container
-    width:auto
-    max-width:1170px
+#contact.right li
+  float:left
+  padding:0px 5px
 
 
-@media (max-width:680px)
-  body .main
-    padding:0px;
+#contact.right strong
+  color: #605371
 
-  body .main header
-    padding:50px 0px;
+#main-wrapper .col-right.col-md-4 > .row > div
+  padding-bottom:25px
 
-  header .header-content
-    padding:100px 15px 0px 15px;
+#main-wrapper .col-right.col-md-4 > .row > div img
+  max-width:100%
+  height:auto
+
+
+
+@media (max-width: 767px)
+  #menu-container
+    position:relative
+    left:0px
+    text-align:left
+    bottom:0
+    margin-top:10px
+  .navbar-brand
+    display:block
+  #banner ul li .caption
+    width:85%
+
+  .navbar-toggle .icon-bar
+    background-color:#605371
+
+  .navbar-toggle
+    border: 1px solid #605371
+
+  #header-wrapper
+    padding-bottom:0px
+
+  .navbar-collapse, .navbar-header
+    border-top: 1px solid #dedccd
+
+@media (max-width:640px)
+  #contact.right
+    margin:0px
+
+  #contact.right ul li.divider
+    display:none
+  #banner
+    padding:200px 0 200px 0
+
+  #banner ul li .caption
+    bottom:15%
+    width:100%
+    left:0
+    padding:10%
+    vertical-align: top
+
+  .cbp-bicontrols
+    top: 160px
+
+
+
+@media (max-width:480px)
+  #contact.right
+    position: absolute
+    top: 0px
+    right: 0px
+    width: 75%
+
+
+
+
+
+

@@ -1,9 +1,105 @@
+#header-wrapper
+	.container
+		.row
+			#logo-container.col-xs-5.col-lg-3
+				a(href='/')
+					img(src= records.site.sitedata[0].logo)
+			#contact.col-xs-7.col-sm-7.col-lg-9.right
+					ul
+						li
+							<strong>t</strong>: 01698 - 426882
+						li.divider |
+						li
+							<strong>e</strong>: info@lanarkshirechamber.org
+			#menu-container.col-xs-12.col-lg-9
+
+				.navbar-header
+
+					button.navbar-toggle.collapsed(data-target='#bs-example-navbar-collapse-1', data-toggle='collapse', type='button')
+						span.sr-only Toggle navigation
+						span.icon-bar
+						span.icon-bar
+						span.icon-bar
+					a(class="navbar-brand" href="javascript:void(0)") MENU
+				#bs-example-navbar-collapse-1.collapse.navbar-collapse
+					ul.nav.navbar-nav.navbar-right
+						li
+							a(href='/') Home
+						li.dropdown
+							a(href='/', class="dropdown-toggle", data-toggle="dropdown", role="button", aria-haspopup="true", aria-expanded="false") About Us <span class="caret"></span>
+							ul.dropdown-menu
+								li
+									a(href="#") Our Commitment
+								li
+									a(href="#") Chief Executives Welcome
+								li
+									a(href="#") Our Team
+								li
+									a(href="#") Membership
+						li.dropdown
+							a(href='/', class="dropdown-toggle", data-toggle="dropdown", role="button", aria-haspopup="true", aria-expanded="false") Services <span class="caret"></span>
+							ul.dropdown-menu
+								li
+									a(href="javascript:void(0)" disabled="true") Events & Networking
+									ul.dropdown-menu-2
+										li
+											a(href="#") Event Sponsorship
+
+								li
+									a(href="javascript:void(0)" disabled="true") Export Introduction
+									ul.dropdown-menu-2
+										li
+											a(href="#") International Business
+										li
+											a(href="#") Export & Import Advice
+								li
+									a(href="javascript:void(0)" disabled="true") Member Benefits
+									ul.dropdown-menu-2
+										li
+											a(href="#") In-Commerce Magazine
+										li
+											a(href="#") Referral Scheme
+										li
+											a(href="#") Corporate Partnership
+								li
+									a(href="javascript:void(0)" disabled="true") Education & Employee Links
+									ul.dropdown-menu-2
+										li
+											a(href="#") Funding
+										li
+											a(href="#") Training
+
+						li
+							a(href='/contact') Events
+						li
+							a(href='/news') News
+						li
+							a(href='/contact') Contact
+
 if _path == "/index.html"
-	header
-		div.header-content
-			div.header-content-inner
-				h1 WEBRIQ CMS STARTER TEMPLATE
-				hr
-				p A modern responsive front-end framework based on<br> Bootstrap CSS framework!
+	#banner
+		.main
+			ul#cbp-bislideshow.cbp-bislideshow
+				li
+					img(src='./img/event.jpg', alt='image01')
+					.caption
+						h1 Think Events
+						h3 Raise Your Business Profile In Lanarkshire With An Array Of Events including Lunches, Breakfast Networking And Sector Specific Seminars
+				li
+					img(src='./img/export.jpg', alt='image02')
+					.caption
+						h1 Think Export
+						h3 Leisure & Hospitality And International Trade. All Closer With Lanarkshire Chamber Of Commerce.
+				li
+					img(src='./img/networking.jpg', alt='image03')
+					.caption
+						h1 Think Networking
+						h3 Getting Together Makes A Difference, Working Together Creates Opportunity.
 
+			#cbp-bicontrols.cbp-bicontrols
+				span.cbp-biprev
+				span.cbp-bipause
+				span.cbp-binext
 
+else
+	#main-banner
