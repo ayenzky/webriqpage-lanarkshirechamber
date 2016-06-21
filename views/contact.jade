@@ -1,0 +1,109 @@
+extends layout
+
+block content
+	h1.title Contact Us
+	p Lanarkshire Chamber of Commerce
+	p Suite 4 West Stand New Douglas Park Cadzow Avenue Hamilton ML3 0FT
+	ul#contact-details
+		li#phone 01698 426882
+		li#fax 01698 424699
+		li#email
+			a(href='mailto:info@lanarkshirechamber.org') info@lanarkshirechamber.org
+	h3 Our Location
+	iframe(src='https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d143346.7031057602!2d-4.085374!3d55.84892000000001!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1466473380531', width='100%', height='300', frameborder='0', style='border:0', allowfullscreen='')
+	p For more
+	form.col.s12.quotation-form(name="quotation", action="thank-you-page", netlify,  netlify-honeypot="bot-field")
+		input(type="hidden", name="subject", value="Quotation Form")
+		label(name="please check your needs", value="contact information" , class="label_name") Contact Information
+		.row
+			.input-field.col.s12
+				input#full_name.validate(type='text', name="full name", required)
+				label(for='full_name') Full Name <sup>*</sup>
+		.row
+			.input-field.col.s12.m6
+				input#company_name.validate(type='text', name="company name", required)
+				label(for='company_name') Company Name <sup>*</sup>
+		//- .row
+		//- 	.input-field.col.s12.m6
+		//- 		input#phone_number.validate(type='tel', name="phone number", required)
+		//- 		label(for='phone_number') Phone Number <sup>*</sup>
+		//- 	.input-field.col.s12.m6
+		//- 		input#fax_number.validate(type='tel', name="fax_number")
+		//- 		label(for='fax_number') Fax Number
+		.row
+			.input-field.col.s12
+				input#email.validate(type='email', name="email")
+				label(for='email') Email
+		br
+		label(name="please check your needs", value="please check your needs" , class="label_name") Please Check Your Needs
+		fieldset
+			legend Situation
+			.row#situation
+
+				.input-field.col.s12.m6.l5
+					input#new_fence.filled-in(type='checkbox', name="new fence to be installed")
+					label(for='new_fence') New fence to be installed
+				.input-field.col.s12.m6.l5
+					input#repair.filled-in(type='checkbox', name="repair")
+					label(for='repair') Repair
+		fieldset
+			legend Application
+			.row#application
+				.input-field.col.s12.m6.l3
+					input#industrial.filled-in(type='checkbox', name="industrial")
+					label(for='industrial') Industrial
+				.input-field.col.s12.m6.l3
+					input#commercial.filled-in(type='checkbox', name="commercial")
+					label(for='commercial') Commercial
+				.input-field.col.s12.m6.l3
+					input#construction.filled-in(type='checkbox', name="construction")
+					label(for='construction') Construction
+				.input-field.col.s12.m6.l3
+					input#residential.filled-in(type='checkbox', name="residential")
+					label(for='residential') Residential
+		fieldset
+			legend Fence Style
+			.row#fence_style
+				.input-field.col.s12.m6.l3
+					input#chain_link.filled-in(type='checkbox', name="chain link")
+					label(for='chain_link') Chain Link
+				.input-field.col.s12.m6.l3
+					input#wrought_iron.filled-in(type='checkbox', name="wrought iron")
+					label(for='wrought_iron') Wrought Iron
+				.input-field.col.s12.m6.l3
+					input#concrete_fence.filled-in(type='checkbox', name="concrete fence")
+					label(for='concrete_fence') Concrete Fence
+				.input-field.col.s12.m6.l3
+					input#wood.filled-in(type='checkbox', name="wood")
+					label(for='wood') Wood
+				.input-field.col.s12.m6.l3
+					input#security_barrier.filled-in(type='checkbox', name="security barrier")
+					label(for='security_barrier') Security Barrier
+			.clear
+			br
+			.row
+				.input-field.col.s12.m6.l3
+					input#height.filled-in(type='text', name="height")
+					label(for='residential') Height
+				.input-field.col.s12.m6.l5
+					input#lenght.filled-in(type='text', name="length")
+					label(for='lenght') Length (Approx. linear footage)
+				.input-field.col.s12.m6.l4
+					input#num_gates.filled-in(type='text', name="number of gates")
+					label(for='num_gates') No. of Gates
+		fieldset
+			legend Gate Operator
+			.row#gate_operator
+				.input-field.col.s12.m6.l5
+					input#swing.filled-in(type='checkbox', name="swing")
+					label(for='swing') Swing
+				.input-field.col.s12.m6.l5
+					input#slide.filled-in(type='checkbox', name="slide")
+					label(for='slide') Slide
+		.row
+			.input-field.col.s12.m12
+				textarea#comments.materialize-textarea(name="comments")
+				label(for='comments') Please write your comments
+		.row
+			.input-field.col.m12
+				button(type="submit", name="submit", value="submit", class="btn-large waves-effect materialize-red") Submit
