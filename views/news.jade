@@ -7,12 +7,13 @@ block content
 		.news-item
 			h2.news-title
 				a(href=newss.permalink)= newss.title
-			p
-				| Published:
+			.published
+				i(class="fa fa-clock-o", aria-hidden="true")
 				date= dateFormat(newss.date, 'dddd, LL')
-			p
+			.lead-image
 				img.img-responsive(src=newss.banner)
-			p= newss.shortdesc
-			p
-				a(href=newss.permalink) Read More
+			.short-desc
+				p= newss.shortdesc
+				p
+					a(href=newss.permalink) Read More
 
