@@ -36,19 +36,19 @@ block content
 			.input-field.col-sm-12
 				h4 Number of Employees?
 			.input-field.col-sm-12
-				input#individual.with-gap(type='radio', name="number of employees")
+				input#individual.with-gap(type='radio', name="number of employees", value="individual sole trader")
 				label(for='individual') Individual / Sole Trader
 			.input-field.col-sm-12
-				input#charity.with-gap(type='radio', name="number of employees")
+				input#charity.with-gap(type='radio', name="number of employees", value="charity")
 				label(for='charity') Charity
 			.input-field.col-sm-12
-				input#2to5empyees.with-gap(type='radio', name="number of employees")
+				input#2to5empyees.with-gap(type='radio', name="number of employees", validate="2 - 5 employees")
 				label(for='2to5empyees') 2 - 5 Employees
 			.input-field.col-sm-12
-				input#6to50empyees.with-gap(type='radio', name="number of employees")
+				input#6to50empyees.with-gap(type='radio', name="number of employees", validate="6 - 50 employees")
 				label(for='6to50empyees') 6 - 50 Employees
 			.input-field.col-sm-12
-				input#more50empyees.with-gap(type='radio', name="number of employees")
+				input#more50empyees.with-gap(type='radio', name="number of employees", validate="more than 50 employees")
 				label(for='more50empyees') More than 50 Employees
 		.row
 			.input-field.col-md-12
