@@ -260,7 +260,111 @@ h1.title
   max-width:100%
   height:auto
 
+.contact-form .row .input-field
 
+  padding-bottom:10px
+
+
+.contact-form .row .input-field textarea
+  border:none
+  border-bottom:1px solid #ccc
+  resize:none
+  width:100%
+  outline:none
+
+
+
+.contact-form .row .input-field .validate
+  width:100%
+  padding:10px 0
+  border:none
+  outline:none
+  border-bottom:1px solid #ccc
+  margin-bottom:10px
+
+
+
+.contact-form .row .input-field label,
+.contact-form .row .input-field h4
+  font-weight:400
+  color:darken(purple, 4)
+
+.contact-form .row .input-field .validate:focus:not([readonly]),
+.contact-form .row .input-field textarea:focus:not([readonly])
+  border-bottom:1px solid purple
+  box-shadow: 0 1px 0 0 purple
+  transition: all .3s
+
+
+[type=radio].with-gap:checked+label:after
+    border-radius: 50%
+    border: 2px solid purple
+    background-color: purple
+    z-index: 0
+    -webkit-transform: scale(.5)
+    -moz-transform: scale(.5)
+    -ms-transform: scale(.5)
+    -o-transform: scale(.5)
+    transform: scale(.5)
+
+
+
+[type=radio]:checked, [type=radio]:not(:checked)
+    position: absolute
+    left: -9999px
+    visibility: hidden
+
+
+[type=radio]:checked+label, [type=radio]:not(:checked)+label, [type=checkbox]+label
+    -khtml-user-select: none
+    -webkit-user-select: none
+    -moz-user-select: none
+    -ms-user-select: none
+    cursor: pointer
+    font-size: 1rem
+    padding-left: 35px
+    display: inline-block
+    line-height: 25px
+
+
+[type=radio]:checked+label, [type=radio]:not(:checked)+label
+    position: relative
+    height: 25px
+    -webkit-transition: .28s ease
+    -moz-transition: .28s ease
+    -o-transition: .28s ease
+    -ms-transition: .28s ease
+    transition: .28s ease
+
+
+[type=radio]:not(:checked)+label:before
+    border-radius: 50%
+    border: 2px solid #ccc
+
+[type=radio].with-gap:checked+label:before
+    border-radius: 50%
+    border: 2px solid purple
+
+
+[type=radio]:checked+label:before
+    border-radius: 50%
+    border: 2px solid transparent
+
+
+[type=radio]+label:after, [type=radio]+label:before
+    content: ''
+    position: absolute
+    left: 0
+    top: 0
+    margin: 4px
+    width: 16px
+    height: 16px
+    z-index: 0
+    -webkit-transition: .28s ease
+    -moz-transition: .28s ease
+    -o-transition: .28s ease
+    -ms-transition: .28s ease
+    transition: .28s ease
 
 @media (max-width: 767px)
   #menu-container
