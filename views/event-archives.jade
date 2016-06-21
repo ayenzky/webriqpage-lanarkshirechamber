@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  h1.title-header Event Archives
+  hr
+  .event-wrapper
+    - each event in records.events.events
+      .event-items
+        h2.event-title= event.title
+        date= dateFormat(event.month +"/"+ event.day +"/"+ event.year, 'dddd, LL')
+        br
+        .clear
+        br
+        .event-content
+          p!= event.description

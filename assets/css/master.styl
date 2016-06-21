@@ -19,11 +19,28 @@ p, span, strong, li, a
 a
   color:purple
 
+a:hover, a:focus
+  color: darken(purple, 4)
+
 h1.title
   font-weight:300
   font-size: 36px !important
   color: purple
   text-transform: uppercase
+
+.col-left h2,
+.col-left h3,
+.col-left h4
+  color:purple
+  font-weight:400
+
+
+h1.title-header
+  font-weight:600
+  color: purple
+  margin-top: 0px
+  font-size: 36px !important
+
 
 .col-right h1.title
   font-weight: 600
@@ -147,26 +164,30 @@ h1.title
   background-color: purple
   color:white
 
-#footer-wrapper ul
+#footer-wrapper ul, .contact-wrapper #contact-details
   padding-left: 0px
   list-style: none
 
-#footer-wrapper ul#contact-details li::before
+#footer-wrapper ul#contact-details li::before,
+.contact-wrapper #contact-details li::before
   content: ""
   width:25px
   height:25px
   float:left
   background: url("../img/stripe.png") no-repeat -77px -5px
 
-#footer-wrapper ul li#phone::before
+#footer-wrapper ul li#phone::before,
+.contact-wrapper #contact-details li#phone::before
   background-position: -77px -5px
 
 
-#footer-wrapper ul li#fax::before
+#footer-wrapper ul li#fax::before,
+.contact-wrapper #contact-details li#fax::before
   background-position: -77px -40px
 
 
-#footer-wrapper ul li#email::before
+#footer-wrapper ul li#email::before,
+.contact-wrapper #contact-details li#email::before
   background-position: -77px -75px
 
 #footer-wrapper #social-media li
@@ -283,6 +304,12 @@ h1.title
   margin-bottom:10px
 
 
+.event-wrapper date
+  padding-bottom: 10px
+
+.event-content p br
+  line-height: 2.7
+
 
 .contact-form .row .input-field label,
 .contact-form .row .input-field h4
@@ -295,6 +322,19 @@ h1.title
   box-shadow: 0 1px 0 0 purple
   transition: all .3s
 
+.contact-form .row .input-field button
+  border-radius:5px
+  border:none
+  padding:10px 30px
+  background-image:none
+  background-color: purple
+  color:#fff
+  font-weight:300
+  text-transform:uppercase
+  outline:none
+
+.contact-form .row .input-field button:hover
+  background-color: darken(purple, 4)
 
 [type=radio].with-gap:checked+label:after
     border-radius: 50%
