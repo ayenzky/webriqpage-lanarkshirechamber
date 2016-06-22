@@ -16,7 +16,7 @@ Being a member of Lanarkshire Chamber means you can access a variety of services
 ### Annual Subscription Fees
 
 | Business Type        | Cost
-| ---------------------------|-------------:|
+| ---------------------------|-------------|
 | Individual / Sole Trader   | £125 + VAT|
 | Charity                    | £150 + VAT   |
 | 2 - 5 Employees            | £200 + VAT   |
