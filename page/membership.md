@@ -1,6 +1,7 @@
 ---
 title: Membership
 cmsUserSlug: membership
+date: now
 ---
 
 Being a member of Lanarkshire Chamber means you can access a variety of services designed to help you build business relationships, develop useful new skills and improve your ability to grow and be competitive. Key benefits of Chamber Membership include:
@@ -14,9 +15,9 @@ Being a member of Lanarkshire Chamber means you can access a variety of services
 
 ### Annual Subscription Fees
 
-| Business Type              | Cost
+| Business Type        | Cost
 | ---------------------------|-------------:|
-| Individual / Sole Trader   | £125 + VAT   |
+| Individual / Sole Trader   | £125 + VAT|
 | Charity                    | £150 + VAT   |
 | 2 - 5 Employees            | £200 + VAT   |
 | 6 - 50 Employess           | £250 + VAT   |
