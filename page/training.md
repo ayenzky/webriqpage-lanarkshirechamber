@@ -1,6 +1,7 @@
 ---
 title: Training
 cmsUserSlug: training
+date: now
 ---
 
 Lanarkshire Chamber of Commerce runs training events on a variety of topics in order to assist our Members.
@@ -8,15 +9,15 @@ Lanarkshire Chamber of Commerce runs training events on a variety of topics in o
 ## Session Date Time Venue
 
 * Managing Safety & Health - The Basics
-
+<br>
 12-Mar-15 09:30 - 11.30 Hamilton Academical FC, Cadzow Ave, Hamilton ML3 0FT
 
 * Sensible Risk Assessment
-
+<br>
 09-Apr-15 09:30 - 11:30 Hamilton Academical FC, Cadzow Ave,Hamilton ML3 0FT
 
 * Fire Safety Awareness / Fire Risk Assessment module
-
+<br>
 07-May-15 09:30 - 11:30 / 11:45 - 13:15, Hamilton Academical FC, Cadzow Ave, Hamilton ML3 0FT
 
 * Improving Attendance and Managing Sickness Absence

@@ -1,6 +1,7 @@
 ---
 title: International Business
 cmsUserSlug: international-business
+date: now
 ---
 
 We want to help you take your business to the world. We provide a range of export documents used in international trade and periodically run international trade events, training courses and trade missions. Explore this section for more information on the types of export documentation and the services we offer.
