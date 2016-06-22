@@ -1,8 +1,7 @@
 extends layout
 
 block content
-	h2= entry.title
-	date= dateFormat(entry.date, 'dddd, LL')
-	p
-		img.img-responsive(src= entry.banner)
-	!= entry.body
+	h1.title-header= entry.title
+	hr
+	.main-content
+		!= entry.body

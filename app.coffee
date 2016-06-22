@@ -8,8 +8,12 @@ collections  = require 'roots-collections'
 excerpt      = require 'html-excerpt'
 moment       = require 'moment'
 cleanUrls    = require 'clean-urls'
+roots_config = require 'roots-config'
+ClientTemplates = require 'client-templates'
 
 monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]
+
+api_url = 'data/events.json'
 
 module.exports =
   ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf']
@@ -22,11 +26,13 @@ module.exports =
 
 
   extensions: [
+    ClientTemplates(base: 'views/templates'),
     records(
       menu: { file: "data/menu.json" }
       site: { file: "data/site.json" }
-      events: { file: "data/events.json" }
+      events: {file: api_url}
     ),
+    roots_config(api_url: api_url, static_items: 2),
     collections(folder: 'news', layout: 'post'),
     collections(folder: 'page', layout: 'post'),
     js_pipeline(files: 'assets/js/*.coffee'),

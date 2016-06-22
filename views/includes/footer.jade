@@ -87,8 +87,11 @@
 
 script(src="../js/main.js")
 <!-- jQuery -->
-script(src="../js/jquery.js")
+script(src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js")
+script(src="../js/readmore.min.js")
 script(src="../js/modernizr.custom.js")
+
+!= config_js()
 <!-- Bootstrap Core JavaScript -->
 script(src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js", integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS", crossorigin="anonymous")
 
@@ -98,7 +101,7 @@ script(src="../js/jquery.easing.min.js")
 script(src="../js/jquery.fittext.js")
 script(src="../js/simplecalendar.js")
 script(src="../js/wow.min.js")
-//- script(src="../node_modules/readmore-js/readmore.min.js")
+
 
 
 <!-- Custom Theme JavaScript -->
@@ -111,7 +114,7 @@ script(type="text/javascript").
 	$(function() {
 		cbpBGSlideshow.init();
 
-		//- $('.event-content').readmore();
+		//- $('.event-content p').readmore({speed: 500});
 	});
 
 

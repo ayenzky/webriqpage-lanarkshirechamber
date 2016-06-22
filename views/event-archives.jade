@@ -4,6 +4,13 @@ block content
   h1.title-header Event Archives
   hr
   .event-wrapper
+    //- ul
+    //-   for event, i in records.events
+    //-     if i < config.static_items
+    //-       include templates/event
+
+    //- button.more See more
+
     - each event in records.events.events
       .event-items
         h2.event-title= event.title
