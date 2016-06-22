@@ -1,6 +1,7 @@
 ---
 title: International Business
 cmsUserSlug: international-business
+date: now
 ---
 
 We want to help you take your business to the world. We provide a range of export documents used in international trade and periodically run international trade events, training courses and trade missions. Explore this section for more information on the types of export documentation and the services we offer.
@@ -41,34 +42,17 @@ To chat through how becoming a member of Lanarkshire Chamber of Commerce can hel
 
 A EUR1 Movement Certificate is used to support claims for preferential (usually zero) rates of duty in the country of importation. To qualify thte goods must 'originate' in the UK or EU and be supported by a correctly completed and endorsed EUR1. The preference system only applies to countries where certain trade agreements exist with the EU. These countries are listed below.
 
+-------------------------------- -------------------------------- -----------------------------
+Albania                         | Israel                            | Norway
+Algeria                          | Jordan                          | Panama
+Bosnia / Herzegovina  | Lebanon                      | Serbia
+Ceuta and Melilla         | Liechtenstein              | South Africa
+Chile                              | Macedonia                  | Switzerland
+Colombia                      | Mexico                         | Syria
+Egypt Faroe Islands      | Montenegro                | Tunisia
+Honduras                      | Morocco                      | Turkey
+Iceland                          | Nicaragua                    | West Bank / Gaza Strip
 
-Albania
-Algeria
-Bosnia / Herzegovina
-Ceuta and Melilla
-Chile
-Colombia
-Egypt Faroe Islands
-Honduras
-Iceland
-Israel
-Jordan
-Lebanon
-Liechtenstein
-Macedonia
-Mexico
-Montenegro
-Morocco
-Nicaragua
-Norway
-Panama
-Serbia
-South Africa
-Switzerland
-Syria
-Tunisia
-Turkey
-West Bank / Gaza Strip
 
 Cariforum Countries: Antigua and Barbuda, Bahamas, Barbados, Belize, Dominica, Dominican Republic, Grenada, Guyana, Jamaica, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Haiti.
 
