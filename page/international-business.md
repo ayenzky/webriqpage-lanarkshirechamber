@@ -42,7 +42,7 @@ To chat through how becoming a member of Lanarkshire Chamber of Commerce can hel
 
 A EUR1 Movement Certificate is used to support claims for preferential (usually zero) rates of duty in the country of importation. To qualify thte goods must 'originate' in the UK or EU and be supported by a correctly completed and endorsed EUR1. The preference system only applies to countries where certain trade agreements exist with the EU. These countries are listed below.
 
-  ------ ------ ------ 
+ ------ ------ ------ 
 TEST TEST TEST TEST TEST TEST TEST TEST TEST
  ------ ------ ------  
 
