@@ -11,7 +11,7 @@ block content
 
     //- button.more See more
 
-    - each event in records.events.events
+    - each event in records.events.events.sort('date')
       .event-items
         h2.event-title= event.title
         .event-day
