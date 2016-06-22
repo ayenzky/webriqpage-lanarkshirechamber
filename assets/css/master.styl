@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5
   font-family: $source-sans-pro !important
   font-weight: 300
 
-p, span, strong, li, a, th, td
+p, span, strong, li, a, th, td, thead
   font-family: $source-sans-pro !important
 
 a
@@ -155,6 +155,23 @@ h1.title-header
   -moz-text-shadow:1px 1px 1px #000
   -o-text-shadow:1px 1px 1px #000
   line-height:1.4
+
+
+ .main-content table
+    border:1px solid #e9e9e9
+    width:100%
+
+ .main-content table thead th
+    border: darken(purple, 4)
+    background-color:purple
+    color:#fff
+    padding:10px
+    font-weight:600
+    text-transform:uppercase
+
+ .main-content table tr td
+    border:1px solid #e9e9e9
+    padding:10px
 
 
 #main-wrapper > .container, #footer-wrapper > .container
