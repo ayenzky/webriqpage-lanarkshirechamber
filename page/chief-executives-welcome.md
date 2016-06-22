@@ -1,6 +1,7 @@
 ---
 title: Chief Executives Welcome
 cmsUserSlug: chief-executives-welcome
+date: now
 ---
 
 Welcome to Lanarkshire Chamber of Commerce, the voice of local businesses in the Lanarkshire area.
