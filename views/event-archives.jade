@@ -7,10 +7,9 @@ block content
     - each event in records.events.events
       .event-items
         h2.event-title= event.title
-        i(class="fa fa-calendar-plus-o", aria-hidden="true")
-          date= dateFormat(event.month +"/"+ event.day +"/"+ event.year, 'dddd, LL')
-        br
+        .event-day
+          i(class="fa fa-clock-o", aria-hidden="true")
+            date= dateFormat(event.month +"/"+ event.day +"/"+ event.year, 'dddd, LL')
         .clear
-        br
         .event-content
           p!= event.description
