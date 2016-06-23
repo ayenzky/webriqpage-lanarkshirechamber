@@ -1,6 +1,6 @@
 ---
 title: Saltire Foundation
-banner: /img/craig-southern.jpg
+banner: /img/saltire-foundation_a85f2b782367a3b3e07d30fa66cb58f2.jpg
 shortdesc: Scotland's world-class entrepreneurial leadership programme.
 cmsUserSlug: "saltire-foundation"
 date: 2014-07-14

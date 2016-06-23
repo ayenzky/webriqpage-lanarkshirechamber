@@ -6,7 +6,7 @@ block content
 	.event-wrapper
 		each event in events.sort('date', 'desc')
 			.event-items
-				h2.event-title
+				h3.event-title
 					a(href= event.permalink)= event.title
 				.event-day
 					i(class="fa fa-clock-o", aria-hidden="true")
