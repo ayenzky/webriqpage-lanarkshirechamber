@@ -1,5 +1,8 @@
 ---
 title: Think Export
-banner: ./img/export.jpg
-shortdesc: Leisure & Hospitality And International Trade. All Closer With Lanarkshire Chamber Of Commerce.
+banner: /img/uploads/export.jpg
+shortdesc: "Leisure & Hospitality And International Trade. All Closer With Lanarkshire Chamber Of Commerce."
+cmsUserSlug: ""
+date: now
 ---
+
