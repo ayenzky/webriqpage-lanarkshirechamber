@@ -1,0 +1,72 @@
+extends layout
+
+block content
+	h1.title-header Contact Us
+	hr
+	.contact-wrapper
+		p Lanarkshire Chamber of Commerce
+		p Suite 4 West Stand New Douglas Park Cadzow Avenue Hamilton ML3 0FT
+		ul#contact-details
+			li#phone 01698 426882
+			li#fax 01698 424699
+			li#email
+				a(href='mailto:info@lanarkshirechamber.org') info@lanarkshirechamber.org
+		h2 Our Location
+		br
+		div#map
+			iframe(src='https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d143346.7031057602!2d-4.085374!3d55.84892000000001!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1466473380531', width='100%', height='300', frameborder='0', style='border:0', allowfullscreen='')
+		.clear
+		form.contact-form(name="contact-form", action="thank-you-page", netlify,  netlify-honeypot="bot-field")
+			input(type="hidden", name="subject", value="Contact Form")
+			h2 Contact Form
+			p Please fill in the form below.
+			br
+			.row#basic-info
+				.input-field.col-sm-12
+					label(for='full_name') Full Name <sup>*</sup>
+					input#full_name.validate(placeholder="John Smith", type='text', name="full name", required)
+				.input-field.col-sm-12
+					label(for='company_name') Company Name <sup>*</sup>
+					input#company_name.validate(placeholder="ABC Company", type='text', name="company name", required)
+				.input-field.col-sm-12
+					label(for='email') Email
+					input#email.validate(placeholder="abc.company@yourmail.com", type='email', name="email")
+				.input-field.col-sm-12
+					label(for='turnover') Turnover
+					input#turnover.validate(placeholder="This is (Optional)", type='text', name="turnover")
+
+			.row#employee
+				.input-field.col-sm-12
+					h4 Number of Employees?
+				.input-field.col-sm-12
+					input#individual.with-gap(type='radio', name="number of employees", value="individual / sole trader")
+					label(for='individual') Individual / Sole Trader
+				.input-field.col-sm-12
+					input#charity.with-gap(type='radio', name="number of employees", value="charity")
+					label(for='charity') Charity
+				.input-field.col-sm-12
+					input#2to5empyees.with-gap(type='radio', name="number of employees", validate="2 - 5 employees")
+					label(for='2to5empyees') 2 - 5 Employees
+				.input-field.col-sm-12
+					input#6to50empyees.with-gap(type='radio', name="number of employees", validate="6 - 50 employees")
+					label(for='6to50empyees') 6 - 50 Employees
+				.input-field.col-sm-12
+					input#more50empyees.with-gap(type='radio', name="number of employees", validate="more than 50 employees")
+					label(for='more50empyees') More than 50 Employees
+			.row
+				.input-field.col-md-12
+					h4 Are you an Exporter?
+				.input-field.col-xs-12.col-sm-3.col-md-2
+					input#yes.with-gap(type='radio', name="are you an exporter", value="yes")
+					label(for='yes') Yes
+				.input-field.col-xs-12.col-sm-3.col-md-2
+					input#no.with-gap(type='radio', name="are you an exporter", value="no")
+					label(for='no') No
+			.row
+				.input-field.col-md-12
+					h4 Please Write Your Comment Below:
+				.input-field.col-md-12
+					textarea#comments(name="comments", placeholder="Enter your message here...")
+			.row
+				.input-field.col-md-12
+					button(type="submit", name="submit", value="submit", class="btn-large") Submit

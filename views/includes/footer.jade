@@ -1,63 +1,125 @@
-section#contact
-	div.container
-		div.row
-			div.col-md-5.col-lg-5
-				h3 About Us
+#footer-wrapper
+	.container
+		.row
+			.col-xs-12.col-sm-6.col-md-3
+				h3 Contact
 				br
-				p Usu fabulas sententiae incorrupte an. Commodo epicurei in vel, malorum pertinacia ne sea, eam possim fabellas expetenda in. Id his saepe repudiandae, assum perpetua te mea. Vix aliquip graecis omittam ei, nec oratio definiebas id. Nec facilis perfecto ei.
-
-			div.col-md-3.col-lg-2
+				p Suite 4, Main Stand New Douglas Park Cadzow Avenue Hamilton ML3 0FT
+				ul#contact-details
+					li#phone 01698 426882
+					li#fax 01698 424699
+					li#email
+						a(href="mailto:info@lanarkshirechamber.org") info@lanarkshirechamber.org
+			.col-xs-12.col-sm-6.col-md-2
 				h3 Quick Links
 				br
 				ul
 					li
-						a(href="/") Home
+						a(href="") Membership
 					li
-						a(href="page/about-us") About Us
-
-			div.col-md-4.col-lg-5
-				h3 Contact Information
+						a(href="") Services
+					li
+						a(href="") International Trade
+					li
+						a(href="") News
+					li
+						a(href="") Events
+					li
+						a(href="") Website Terms
+					li
+						a(href="") Privacy Policy
+					li
+						a(href="") Cookie Policy
+					li
+						a(href="") Site Map
+			.col-xs-12.col-sm-6.col-md-3
+				h3 Partners
 				br
-				ul
+				ul#partners-links
+					li www.businessgateway.co.uk
+					li www.scottishenterprise.co.uk
+					li www.visitlanarkshire.co.uk
+			.col-xs-12.col-sm-6.col-md-4
+				h3 Join Our Mailing List
+				br
+				// Begin MailChimp Signup Form
+				#mc_embed_signup
+					form#mc-embedded-subscribe-form.validate(action='//lanarkshirechamber.us13.list-manage.com/subscribe/post?u=5fd4be273d5710ac4e9816f63&amp;id=46e3bd91d6', method='post', name='mc-embedded-subscribe-form', target='_blank', novalidate='')
+						#mc_embed_signup_scroll
+							.mc-field-group
+								//- label(for='mce-EMAIL') Email Address
+								input#mce-EMAIL.required.email(type='email', value='', name='EMAIL', placeholder="ENTER YOUR EMAIL HERE" required)
+							.mc-field-group-submit
+								input#mc-embedded-subscribe.button(type='submit', value='JOIN NOW', name='subscribe')
+							#mce-responses.clear
+								#mce-error-response.response(style='display:none')
+								#mce-success-response.response(style='display:none')
+							// real people should not fill this in and expect good things - do not remove this or risk form bot signups
+							div(style='position: absolute; left: -5000px;', aria-hidden='true')
+								input(type='text', name='b_5fd4be273d5710ac4e9816f63_46e3bd91d6', tabindex='-1', value='')
+				// End mc_embed_signup
+
+
+				br
+				h4 Follow Us On
+
+				ul#social-media
 					li
-						a(href="#") Address: This is your location
+						a(href="")
+							img(src="../img/fb.jpg")
 					li
-						a(href="#") Phone: (07) 4565 678
+						a(href="")
+							img(src="../img/twitter.jpg")
 					li
-						a(href="#") Email: info@demosite.com
+						a(href="")
+							img(src="../img/gplus.jpg")
 					li
-						a(href="#") Website: www.demosite.com
-section#copyright
-	div.container
-		div.row
-			div.col-lg-12
+						a(href="")
+							img(src="../img/linked.jpg")
+
+
+#copyright
+	.container
+		.row
+			.col-lg-12
 				p= records.site.sitedata[0].footer
 
 
-	!= js()
-	<!-- jQuery -->
-	script(src="../js/jquery.js")
-	script(src="../js/modernizr.custom.js")
-	<!-- Bootstrap Core JavaScript -->
-	script(src="../js/bootstrap.min.js")
+script(src="../js/main.js")
+<!-- jQuery -->
+script(src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js")
+script(src="../js/modernizr.custom.js")
 
-	<!-- Plugin JavaScript -->
+!= config_js()
+<!-- Bootstrap Core JavaScript -->
+script(src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js", integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS", crossorigin="anonymous")
 
-	script(src="../js/jquery.easing.min.js")
-	script(src="../js/jquery.countTo.js")
-	script(src="../js/jquery.fittext.js")
-	script(src="../js/wow.min.js")
+<!-- Plugin JavaScript -->
 
-
-	<!-- Custom Theme JavaScript -->
-	script(src="../js/jquery.imagesloaded.min.js")
-	script(src="../js/cbpBGSlideshow.min.js")
-	script(src="../js/owl.carousel.min.js")
-	script(src="//res.cloudinary.com/webriq-pte/raw/upload/v1417678832/js/parallax.js")
-	script(src="../js/creative.js")
-
-	<!-- Google Analytics -->
-	script(type="text/javascript")
-		!= records.site.sitedata[0].analytics
+script(src="../js/jquery.easing.min.js")
+script(src="../js/jquery.fittext.js")
+script(src="../js/simplecalendar.js")
+script(src="../js/wow.min.js")
 
 
+
+<!-- Custom Theme JavaScript -->
+script(src="../js/jquery.imagesloaded.min.js")
+script(src="../js/cbpBGSlideshow.min.js")
+script(type='text/javascript', src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js')
+//- script(src="../js/creative.js")
+
+script(type="text/javascript").
+	$(function() {
+		cbpBGSlideshow.init();
+	});
+
+
+//- script(type='text/javascript').
+//- 	(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+
+
+
+//- <!-- Google Analytics -->
+//- script(type="text/javascript")
+//- 	!= records.site.sitedata[0].analytics

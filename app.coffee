@@ -7,8 +7,15 @@ records      = require 'roots-records'
 collections  = require 'roots-collections'
 excerpt      = require 'html-excerpt'
 moment       = require 'moment'
+cleanUrls    = require 'clean-urls'
+roots_config = require 'roots-config'
+ClientTemplates = require 'client-templates'
+sortObj = require 'sort-object'
+sortBy = require 'sort-by'
 
 monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]
+
+api_url = 'data/events.json'
 
 module.exports =
   ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf']
@@ -21,12 +28,16 @@ module.exports =
 
 
   extensions: [
+    ClientTemplates(base: 'views/templates'),
     records(
       menu: { file: "data/menu.json" }
       site: { file: "data/site.json" }
     ),
-    collections(folder: 'posts', layout: 'post'),
-    collections(folder: 'page', layout: 'post'),
+    roots_config(api_url: api_url, static_items: 2),
+    collections(folder: 'news', layout: 'post'),
+    collections(folder: 'page', layout: 'page'),
+    collections(folder: 'events', layout: 'page'),
+    collections(folder: 'slider', layout: 'post'),
     js_pipeline(files: 'assets/js/*.coffee'),
     css_pipeline(files: 'assets/css/*.styl')
   ]
@@ -40,3 +51,6 @@ module.exports =
 
   jade:
     pretty: true
+
+  server:
+    clean_urls: true

@@ -5,197 +5,576 @@ base()
 
 body
   padding: 0px
-  font-family: "Open sans", Arial, sans-serif
+  font: $font-size/1.7 $source-sans-pro
+  font-weight: 400
+  color: $font-color
+
+h1, h2, h3, h4, h5
+  font-family: $source-sans-pro !important
+  font-weight: 300
+
+p, span, strong, li, a, th, td, thead
+  font-family: $source-sans-pro !important
 
 a
-  color: blue-darken-1
+  color:purple
+  text-decoration:none !important
 
 a:hover, a:focus
-  color: blue-darken-2
+  color: darken(purple, 4)
 
-.team-box.text-center img
-  margin:0px auto;
+h1.title
+  font-weight:300
+  font-size: 36px !important
+  color: purple
+  text-transform: uppercase
 
-.team-box.text-center p strong
-  color: blue-darken-1
-
-section
-  background-color:#fff;
-
-section#services
-  border-bottom:1px solid #f1f1f1;
-
-.short-section.stats-bar
-  padding:20px 0px 30px 0px;
-
-.short-section.stats-bar .counter-item h2
-  font-weight:700;
-  font-size:46px
-
-.short-section.stats-bar .counter-item h6
-  text-transform:uppercase;
-  font-size:14px;
-  font-weight:300;
+.col-left h2,
+.col-left h3,
+.col-left h4
+  color:purple
+  font-weight:400
 
 
-.btn-primary
-  background-color: light-blue
+h1.title-header
+  font-weight:600
+  color: purple
+  margin-top: 0px
+  font-size: 36px !important
 
-.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary
-  background-color: blue-darken-1
 
-.navbar-default.affix .navbar-header .navbar-brand,
-.navbar-default .nav > li.active>a, .navbar-default .nav>li.active>a:focus,
-.navbar-default.affix .nav > li>a:hover, .navbar-default.affix .nav>li>a:focus:hover,
-.navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus,
-.navbar-default .nav > li>a:hover, .navbar-default .nav>li>a:focus:hover
-  color: #fff
-
-#bs-example-navbar-collapse-1 > ul
+.col-right h1.title
+  font-weight: 600
+  text-transform: capitalize
   margin-top:0px
-  margin-bottom:0px
 
-#bs-example-navbar-collapse-1 > ul > li
-  @media (max-width:767px)
-    border-bottom: 1px solid #F6F6F6
-    box-shadow: 0px 0px 3px -1px #ddd
-    -webkit-box-shadow: 0px 0px 3px -1px #F1F1F1
+.container
+  position:relative
 
-.bg-primary
-  background-color: light-blue
+.right
+  float:right
+.left
+  float:left
 
-.text-primary
-  color: blue-lighten-1
+.navbar-nav li a
+  color:$font-color
+  padding:10px 15px
+  font-size:14px
+  font-weight:400
 
-hr
- border-color: blue-darken-1
+.navbar-nav li
+  text-transform:uppercase
 
-.portfolio-box .portfolio-box-caption
-  background-color: black
-  background-color: rgba(38, 178, 241, 0.8)
+.nav > li.dropdown.open > a,
+.nav > li > a:hover, .nav > li > a:focus
+  background-color: purple
+  color:white
 
-.navbar-default .navbar-toggle
-  border-color:#fff
+.nav > li.dropdown .caret
+  margin-top:-2px
 
-.navbar-default .navbar-toggle:focus,
-.navbar-default .navbar-toggle:hover{
-  background-color: transparent
-}
 
-.navbar-default .navbar-toggle .icon-bar
+.nav > li .dropdown-menu
+  padding-top: 0px
+  padding-bottom: 0px
+  border:none
+  overflow:hidden
+
+
+.nav > li .dropdown-menu li a:hover
+  background-color:#605371
+  color:#fff
+
+.nav > li:nth-child(2) .dropdown-menu a
+  color:#888
+  font-weight:400
+
+
+.nav > li:nth-child(3) .dropdown-menu > li > a:hover
   background-color:#fff
+  color:purple
+  cursor:default
 
-body.main header
-  min-height: 30%;
-  background-image: url(../img/header3.jpg);
-  background-position: top;
-  background-repeat:no-repeat;
+.nav > li .dropdown-menu .dropdown-menu-2
+  list-style:none
+  padding-left:0px
 
-.page header
-  padding: 20px 0px
-  text-align:left
-  color: #222
-  font-weight: 700
-
-body.main .content h2.title
-  border-bottom:1px solid #dfdfdf
-  padding-bottom:10px
-  margin-bottom:20px
+.nav > li .dropdown-menu > li > a
   font-weight:600
+  color: purple
 
-body.main .content h2.title strong
-  color: light-blue
-  font-weight:600
+.nav > li .dropdown-menu > li > a
+  border-top:1px solid #f3f3f3
+  box-shadow:0px 1px 1px 0px #f1f1f1
+  -webkit-box-shadow:0px 1px 1px 0px #f1f1f1
+  padding:10px
 
-body.main .addthis_sharing_toolbox
+
+
+.nav > li .dropdown-menu .dropdown-menu-2 a
+  display:block
+
+.nav > li .dropdown-menu .dropdown-menu-2  a::before,
+.nav > li:nth-child(2) .dropdown-menu  a::before
+  content:""
+  width:20px
+  height:20px
+  background: url(../img/stripe.png) 98% 2.4% no-repeat
+  float:left
+
+
+#header-wrapper
+  padding: 10px 0
+#header-wrapper, #main-wrapper
+  background-color:white
+
+#banner
+  padding: 245px 0 245px 0
+
+
+#main-banner
+  padding: 40px 0
+  background: #605371 url(../img/mainbannerbg.png) no-repeat 10% bottom
+
+#banner ul li .caption
+  position:absolute
+  bottom: 20%
+  left:8%
+  width:40%
+
+#banner ul li .caption h1
+  font-weight:700
+  color:white
+  text-shadow:1px 1px 1px #000
+  -webkit-text-shadow:1px 1px 1px #000
+
+#banner ul li .caption h3
+  font-weight:400
+  color:white
+  text-shadow:1px 1px 1px #000
+  -webkit-text-shadow:1px 1px 1px #000
+  -moz-text-shadow:1px 1px 1px #000
+  -o-text-shadow:1px 1px 1px #000
+  line-height:1.4
+
+
+ .main-content table
+    border:1px solid #e9e9e9
+    width:100%
+    margin-top: 20px
+    margin-bottom: 20px
+
+ .main-content table thead th
+    border:1px solid darken(purple, 4)
+    background-color:purple
+    color:#fff
+    padding:10px
+    font-weight:600
+    text-transform:uppercase
+
+ .main-content table tr td
+    border:1px solid #e9e9e9
+    padding:10px
+
+
+#main-wrapper > .container, #footer-wrapper > .container
+  padding: 50px 15px
+
+#footer-wrapper
+  background-color: purple
+  color:white
+
+#footer-wrapper ul, .contact-wrapper #contact-details
+  padding-left: 0px
+  list-style: none
+
+#footer-wrapper ul#contact-details li::before,
+.contact-wrapper #contact-details li::before
+  content: ""
+  width:25px
+  height:25px
+  float:left
+  background: url("../img/stripe.png") no-repeat -77px -5px
+
+#footer-wrapper ul li#phone::before,
+.contact-wrapper #contact-details li#phone::before
+  background-position: -77px -5px
+
+
+#footer-wrapper ul li#fax::before,
+.contact-wrapper #contact-details li#fax::before
+  background-position: -77px -40px
+
+
+#footer-wrapper ul li#email::before,
+.contact-wrapper #contact-details li#email::before
+  background-position: -77px -75px
+
+#footer-wrapper #social-media li
+  display:inline-block
+  margin-right:5px
+
+#footer-wrapper #social-media
+  margin-top:25px
+
+.clear
   clear:both
 
+#footer-wrapper li a
+  color:white
 
-#panel
-  padding:0px
-  position:fixed
-  width:250px
-  z-index:1
-  top:39.5%
+#mc_embed_signup #mc_embed_signup_scroll input
+  height:45px
+  width:100%
+  border:none
+  padding:5px
+  outline:none
 
-  @media (max-width:767px)
-    position:relative
-    width:100%
+#mc_embed_signup #mc_embed_signup_scroll .mc-field-group
+  width:70%
+  float:left
+  border-top-left-radius:5px
+  -webkit-border-top-left-radius:5px
+  border-bottom-left-radius:5px
+  -webkit-border-bottom-left-radius:5px
+  overflow:hidden
+
+#mc_embed_signup #mc_embed_signup_scroll .mc-field-group input
+  color:#333
 
 
-#panel .list-group-item:first-child
-  background-color:blue-darken-1
-  color:#fff
+#mc_embed_signup #mc_embed_signup_scroll .mc-field-group-submit
+  width:30%
+  float:right
+  border-top-right-radius:5px
+  -webkit-border-top-right-radius:5px
+  border-bottom-right-radius:5px
+  -webkit-border-bottom-right-radius:5px
+  overflow:hidden
 
-#panel .list-group-item:first-child h4
-  margin:5px auto
+#mc_embed_signup #mc_embed_signup_scroll .mc-field-group-submit input
+  text-transform:uppercase
+  background-color:#564a66
+  color:#dedccd
 
-section#our-prices
-  background-color:#f7f7f7
 
-#contact
-  background-color:#222
-  color:#fff;
-  padding:50px 0px
-.footer #copyright
-  padding:0px
-  background-color:#1F1F1F
+#copyright
+  background-color: darken(purple, 4)
+  color: white
 
-.footer #copyright p
-  margin:0px
-  color:#555
-  padding:15px 0px
+#copyright p
+  padding-top: 10px
 
-#contact ul
-  margin-left:0px
-  padding-left:10px
+
+
+#menu-container
+  position:absolute
+  right:0px
+  bottom:-10px
+  text-align:right
+
+.navbar-brand
+  display:none
+
+#contact.right
+  margin-top: 20px
+
+
+#contact.right ul
   list-style:none
+  padding-left:0px
+  padding-right:10px
+  float:right
 
-#contact hr
-  border-color:#fff
+#contact.right li
+  float:left
+  padding:0px 5px
 
-#contact a
+
+#contact.right strong
+  color: #605371
+
+#main-wrapper .col-right.col-md-4 > .row > div
+  padding-bottom:25px
+
+#main-wrapper .col-right.col-md-4 > .row > div img
+  max-width:100%
+  height:auto
+
+.contact-form .row .input-field
+
+  padding-bottom:10px
+
+
+.contact-form .row .input-field textarea
+  border:none
+  border-bottom:1px solid #ccc
+  resize:none
+  width:100%
+  outline:none
+
+
+
+.contact-form .row .input-field .validate
+  width:100%
+  padding:10px 0
+  border:none
+  outline:none
+  border-bottom:1px solid #ccc
+  margin-bottom:10px
+
+
+.event-wrapper date
+  padding-bottom: 10px
+
+.event-content p br
+  line-height: 2.7
+
+.news-item, .event-items
+  border-bottom:1px solid #eee
+
+.news-item .published,
+.event-items .event-day
+  margin-bottom:15px
+  font-size:14px
+
+
+.news-item .published date,
+.event-items .event-day date
+  text-transform:uppercase
+
+.news-item .short-desc
+  margin: 15px 0
+
+.news-item .short-desc p:first-child
+  text-align:left
+
+.news-item .short-desc p.read-more,
+.event-shortdesc p.read-more
+  text-align:right
+
+.news-item .short-desc p.read-more a,
+.event-shortdesc p.read-more a
+  padding:5px 10px
+  text-transform:uppercase
+
+
+.contact-form .row .input-field label,
+.contact-form .row .input-field h4
+  font-weight:400
+  color:darken(purple, 4)
+
+.contact-form .row .input-field .validate:focus:not([readonly]),
+.contact-form .row .input-field textarea:focus:not([readonly])
+  border-bottom:1px solid purple
+  box-shadow: 0 1px 0 0 purple
+  transition: all .3s
+
+.contact-form .row .input-field button
+  border-radius:5px
+  border:none
+  padding:10px 30px
+  background-image:none
+  background-color: purple
+  color:#fff
+  font-weight:300
+  text-transform:uppercase
+  outline:none
+
+.contact-form .row .input-field button:hover
+  background-color: darken(purple, 4)
+
+.lead-image
+  margin:25px auto
+
+
+[type=radio].with-gap:checked+label:after
+    border-radius: 50%
+    border: 2px solid purple
+    background-color: purple
+    z-index: 0
+    -webkit-transform: scale(.5)
+    -moz-transform: scale(.5)
+    -ms-transform: scale(.5)
+    -o-transform: scale(.5)
+    transform: scale(.5)
+
+
+
+[type=radio]:checked, [type=radio]:not(:checked)
+    position: absolute
+    left: -9999px
+    visibility: hidden
+
+
+[type=radio]:checked+label, [type=radio]:not(:checked)+label, [type=checkbox]+label
+    -khtml-user-select: none
+    -webkit-user-select: none
+    -moz-user-select: none
+    -ms-user-select: none
+    cursor: pointer
+    font-size: 1rem
+    padding-left: 35px
+    display: inline-block
+    line-height: 25px
+
+
+[type=radio]:checked+label, [type=radio]:not(:checked)+label
+    position: relative
+    height: 25px
+    -webkit-transition: .28s ease
+    -moz-transition: .28s ease
+    -o-transition: .28s ease
+    -ms-transition: .28s ease
+    transition: .28s ease
+
+
+[type=radio]:not(:checked)+label:before
+    border-radius: 50%
+    border: 2px solid #ccc
+
+[type=radio].with-gap:checked+label:before
+    border-radius: 50%
+    border: 2px solid purple
+
+
+[type=radio]:checked+label:before
+    border-radius: 50%
+    border: 2px solid transparent
+
+
+[type=radio]+label:after, [type=radio]+label:before
+    content: ''
+    position: absolute
+    left: 0
+    top: 0
+    margin: 4px
+    width: 16px
+    height: 16px
+    z-index: 0
+    -webkit-transition: .28s ease
+    -moz-transition: .28s ease
+    -o-transition: .28s ease
+    -ms-transition: .28s ease
+    transition: .28s ease
+
+
+#calendar table tr td.event-date
+  padding: 0px
+  text-align: center
+  background-color: #605371 !important
+  margin: 0px !important
+  border-radius: 0px
+  width: 80px
+  height: 80px
+  vertical-align:top
+  border-bottom:1px solid lighten(purple, 3);
+
+
+#calendar table tr td.event-date div
+  font-weight:300
   color:#fff
 
-// Blog
+#calendar table tr td.event-date .date-day
+  font-size: 24px
+  margin: 0px
+  padding: 0px
+  text-align:center
+  background-color: purple
 
-.main .blog
-  padding:0px
-  box-shadow:0px 1px 5px 0px #bbb
-  margin-bottom:20px
 
-.main .blog .blog-header h3
-  margin:0px
+
+
+#calendar table tr td.event-date .date-cal
+   text-transform:uppercase
+   font-weight:600
+   font-size:18px
+   letter-spacing: 1px
+   line-height:1.7
+   -webkit-font-smoothing: antialiased
+   font-smoothing: antialiased
+   text-rendering: optimizeSpeed
+   background-color: darken(purple, 4)
+
+#calendar table tr td.event-desc
+  padding:5px
+  background-color: #f5f5f5
+  border-bottom:1px solid #eee;
+
+
+#calendar table tr td.event-desc .event-title
+  margin-bottom:0px
+  line-height:1.4
+
+
+#calendar table tr td.event-desc .event-title a
+  text-transform:capitalize
+#calendar table
+  margin-top:30px
+  margin-bottom:10px
+
+#calendar table thead th
+  font-size:24px
+  padding:5px
+  background-color:#605371
   color:#fff
-
-.main .blog .blog-header
-  padding:15px
-  background-color:blue-darken-1
-
-.main .blog .blog-list .list
-  border-bottom: 1px solid #DFDFDF;
-  box-shadow: 0px 0px 3px -1px #FFF;
-  -webkit-box-shadow: 0px 0px 3px -1px #FFF;
-  padding:10px
-  background-color:#ECECEC
-
-.main .blog .blog-list .list h5
-  margin:4px auto
-.main .blog .blog-list .list a
-  color:#212121
-
-@media (min-width: 768px)
-  .container
-    width:auto
-    max-width:1170px
+  font-weight:300
 
 
-@media (max-width:680px)
-  body .main
-    padding:0px;
+@media (max-width: 767px)
+  #menu-container
+    position:relative
+    left:0px
+    text-align:left
+    bottom:0
+    margin-top:10px
+  .navbar-brand
+    display:block
+  #banner ul li .caption
+    width:85%
 
-  body .main header
-    padding:50px 0px;
+  .navbar-toggle .icon-bar
+    background-color:#605371
 
-  header .header-content
-    padding:100px 15px 0px 15px;
+  .navbar-toggle
+    border: 1px solid #605371
+
+  #header-wrapper
+    padding-bottom:0px
+
+  .navbar-collapse, .navbar-header
+    border-top: 1px solid #dedccd
+
+@media (max-width:640px)
+  #contact.right
+    margin:0px
+
+  #contact.right ul li.divider
+    display:none
+  #banner
+    padding:200px 0 200px 0
+
+  #banner ul li .caption
+    bottom:15%
+    width:100%
+    left:0
+    padding:10%
+    vertical-align: top
+
+  .cbp-bicontrols
+    top: 160px
+
+
+
+@media (max-width:480px)
+  #contact.right
+    position: absolute
+    top: 0px
+    right: 0px
+    width: 75%
+
+
+
+
+
+

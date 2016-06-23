@@ -1,0 +1,19 @@
+extends layout
+
+block content
+	h1.title-header Latest News
+	hr
+	each newss in news.orderBy('date', 'desc').slice(0, 10)
+		.news-item
+			h3.news-title
+				a(href=newss.permalink)= newss.title
+			.published
+				i(class="fa fa-clock-o", aria-hidden="true")
+				date= dateFormat(newss.date, 'dddd, LL')
+			.lead-image
+				img.img-responsive(src=newss.banner)
+			.short-desc
+				p= newss.shortdesc
+				p.read-more
+					a(href=newss.permalink) Read More
+
