@@ -1,39 +1,53 @@
 .row
-  .col-lg-12#event
-    h1.title Event Calendar
-    p Our events calendar provides all you need to know about the latest Chamber events and networking opportunities. We also welcome suggestions from Members on any events you would like to see run in the future, so get in touch with our Events Team at anne.kennedy@lanarkshirechamber.org  and we'll do our best to accommodate
-    br
-    #calendar
-      .calendar.hidden-print
-        header
-          h2.month
-          a.btn-prev.fa.fa-angle-left(href='javascript:void(0)')
-          a.btn-next.fa.fa-angle-right(href='javascript:void(0)')
+	.col-lg-12#event
+		h1.title Event Calendar
+		p Our events calendar provides all you need to know about the latest Chamber events and networking opportunities. We also welcome suggestions from Members on any events you would like to see run in the future, so get in touch with our Events Team at anne.kennedy@lanarkshirechamber.org  and we'll do our best to accommodate
 
-        table
-          thead.event-days
-            tr
-          tbody.event-calendar
-            tr.1
-            tr.2
-            tr.3
-            tr.4
-            tr.5
-        .list
-          .day-event
-            a.close.fa.fa-times(href='javascript:void(0)')
-            h2.title Lorem ipsum 1
-            p
-              | Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin. Lorem ipsum har varit standard ända sedan 1500-talet, när en okänd boksättare tog att antal bokstäver och blandade dem för att göra ett provexemplar av en bok.
-            //- label.check-btn
-            //-   input#save.save(type='checkbox', name='', value='')
-            //-   span Save to personal list!
-  .col-lg-12#member
-    p
-      img(src="../img/becomemember.jpg")
-  .col-lg-12#adbanner
-    h1.title InCommerce
-    p Read our Lanarkshire Chamber of Commerce latest Business Magazin.
-    p
-      a(href="https://issuu.com/dtechdesignersandpublishers/docs/lanarkshire_incommerce_iss16-issuu", target="_blank")
-        img(src="../img/incommerce.jpg")
+		#calendar
+			table.event-handler
+					thead
+						tr
+							th(colspan="2") Upcoming Events
+					tbody
+						tr
+							td.event-date
+								.date-cal Jan
+								.date-day 18
+							td.event-desc
+								.desc-text
+									p.event-title
+										a(href='/return-on-investment-%28roi%29-to-suit-the-strategy-employed') Chamber Of Commerce Business Fair
+
+			//- .calendar.hidden-print
+			//-   header
+			//-     h2.month
+			//-     a.btn-prev.fa.fa-angle-left(href='javascript:void(0)')
+			//-     a.btn-next.fa.fa-angle-right(href='javascript:void(0)')
+
+			//-   table
+			//-     thead.event-days
+			//-       tr
+			//-     tbody.event-calendar
+			//-       tr.1
+			//-       tr.2
+			//-       tr.3
+			//-       tr.4
+			//-       tr.5
+			//-   .list
+			//-     .day-event
+			//-       a.close.fa.fa-times(href='javascript:void(0)')
+			//-       h2.title Lorem ipsum 1
+			//-       p
+			//-         | Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin. Lorem ipsum har varit standard ända sedan 1500-talet, när en okänd boksättare tog att antal bokstäver och blandade dem för att göra ett provexemplar av en bok.
+			//-       //- label.check-btn
+			//-       //-   input#save.save(type='checkbox', name='', value='')
+			//-       //-   span Save to personal list!
+	.col-lg-12#member
+		p
+			img(src="../img/becomemember.jpg")
+	.col-lg-12#adbanner
+		h1.title InCommerce
+		p Read our Lanarkshire Chamber of Commerce latest Business Magazin.
+		p
+			a(href="https://issuu.com/dtechdesignersandpublishers/docs/lanarkshire_incommerce_iss16-issuu", target="_blank")
+				img(src="../img/incommerce.jpg")

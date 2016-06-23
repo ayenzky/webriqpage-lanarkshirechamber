@@ -27,6 +27,7 @@
 
   /**Menu Icons End Here**/
 
+  #main-wrapper .main-container,
   #main-wrapper .container {
     width: auto;
     max-width: 1200px;
@@ -36,24 +37,24 @@
   body.ember-application .cms-list-entry,
   body.ember-application .cms-preview-pane {
     background: #fff;
-  }
-    body.is-loading * {
-      -moz-transition: none !important;
-      -webkit-transition: none !important;
-      -o-transition: none !important;
-      -ms-transition: none !important;
-      transition: none !important;
-      -moz-animation: none !important;
-      -webkit-animation: none !important;
-      -o-animation: none !important;
-      -ms-animation: none !important;
-      animation: none !important;
-    }
-
-  body,input,textarea,select
-  {
 
   }
+  body.ember-application .cms-preview-pane .cms.cms-preview{
+    background: #f7f7f7;
+  }
+  body.is-loading * {
+    -moz-transition: none !important;
+    -webkit-transition: none !important;
+    -o-transition: none !important;
+    -ms-transition: none !important;
+    transition: none !important;
+    -moz-animation: none !important;
+    -webkit-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
+  }
+
 
   strong, b
   {

@@ -10,6 +10,8 @@ moment       = require 'moment'
 cleanUrls    = require 'clean-urls'
 roots_config = require 'roots-config'
 ClientTemplates = require 'client-templates'
+sortObj = require 'sort-object'
+sortBy = require 'sort-by'
 
 monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]
 
@@ -30,11 +32,18 @@ module.exports =
     records(
       menu: { file: "data/menu.json" }
       site: { file: "data/site.json" }
-      events: {file: api_url}
+      events:
+        file: api_url,
+        hook: (res) ->
+          p = res.events
+          p.sort(sortBy('-date'))
+          return p
+
     ),
     roots_config(api_url: api_url, static_items: 2),
     collections(folder: 'news', layout: 'post'),
-    collections(folder: 'page', layout: 'post'),
+    collections(folder: 'page', layout: 'page'),
+    collections(folder: 'events', layout: 'page'),
     js_pipeline(files: 'assets/js/*.coffee'),
     css_pipeline(files: 'assets/css/*.styl')
   ]
