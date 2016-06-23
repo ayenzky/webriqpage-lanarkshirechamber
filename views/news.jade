@@ -5,7 +5,7 @@ block content
 	hr
 	each newss in news.orderBy('date', 'desc').slice(0, 10)
 		.news-item
-			h2.news-title
+			h3.news-title
 				a(href=newss.permalink)= newss.title
 			.published
 				i(class="fa fa-clock-o", aria-hidden="true")
