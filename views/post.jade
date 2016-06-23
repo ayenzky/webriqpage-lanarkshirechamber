@@ -11,33 +11,3 @@ block content
 			img.img-responsive(src= entry.banner)
 		.lead-content
 			!= entry.body
-
-	.row
-		.col-lg-12#event
-			h1.title Event Calendar
-			p Our events calendar provides all you need to know about the latest Chamber events and networking opportunities. We also welcome suggestions from Members on any events you would like to see run in the future, so get in touch with our Events Team at anne.kennedy@lanarkshirechamber.org  and we'll do our best to accommodate
-
-			#calendar
-				table.event-handler
-						thead
-							tr
-								th(colspan="2") Upcoming Events
-						tbody
-							each event in events.sort('date', 'desc').slice(0,3)
-								tr
-									td.event-date
-										.date-cal= dateFormat(event.date, 'MMM')
-										.date-day= dateFormat(event.date, 'D')
-									td.event-desc
-										.desc-text
-											p.event-title
-												a(href= event.permalink)= event.title
-		.col-lg-12#member
-			p
-				img(src="../img/becomemember.jpg")
-		.col-lg-12#adbanner
-			h1.title InCommerce
-			p Read our Lanarkshire Chamber of Commerce latest Business Magazin.
-			p
-				a(href="https://issuu.com/dtechdesignersandpublishers/docs/lanarkshire_incommerce_iss16-issuu", target="_blank")
-					img(src="../img/incommerce.jpg")
