@@ -9,14 +9,15 @@
 						tr
 							th(colspan="2") Upcoming Events
 					tbody
-						tr
-							td.event-date
-								.date-cal Jan
-								.date-day 18
-							td.event-desc
-								.desc-text
-									p.event-title
-										a(href='/return-on-investment-%28roi%29-to-suit-the-strategy-employed') Chamber Of Commerce Business Fair
+						each event in events.sort('date', 'desc').slice(0,3)
+							tr
+								td.event-date
+									.date-cal= dateFormat(event.date, 'MMM')
+									.date-day= dateFormat(event.date, 'D')
+								td.event-desc
+									.desc-text
+										p.event-title
+											a(href= event.permalink)= event.title
 
 			//- .calendar.hidden-print
 			//-   header
