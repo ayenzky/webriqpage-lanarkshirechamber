@@ -349,10 +349,12 @@ h1.title-header
 .news-item .short-desc p:first-child
   text-align:left
 
-.news-item .short-desc p
+.news-item .short-desc p.read-more,
+.event-shortdesc p.read-more
   text-align:right
 
-.news-item .short-desc p a
+.news-item .short-desc p.read-more a,
+.event-shortdesc p.read-more a
   padding:5px 10px
   text-transform:uppercase
 
@@ -381,6 +383,10 @@ h1.title-header
 
 .contact-form .row .input-field button:hover
   background-color: darken(purple, 4)
+
+.lead-image
+  margin:25px auto
+
 
 [type=radio].with-gap:checked+label:after
     border-radius: 50%
@@ -482,9 +488,9 @@ h1.title-header
 #calendar table tr td.event-date .date-cal
    text-transform:uppercase
    font-weight:600
-   font-size:24px
+   font-size:18px
    letter-spacing: 1px
-   line-height:1.3
+   line-height:1.7
    -webkit-font-smoothing: antialiased
    font-smoothing: antialiased
    text-rendering: optimizeSpeed
