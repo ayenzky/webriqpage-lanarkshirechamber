@@ -11,12 +11,12 @@ block content
 
     //- button.more See more
 
-    - each event in records.events
+    each event in events.sort('date', 'desc')
       .event-items
         h2.event-title= event.title
         .event-day
           i(class="fa fa-clock-o", aria-hidden="true")
-            date= dateFormat(event.month +"/"+ event.day +"/"+ event.year, 'dddd, LL')
+            date= dateFormat(event.date, 'dddd, LL')
         .clear
-        .event-content
-          p!= event.description
+        .event-shortdesc
+          p!= event.shortdesc
