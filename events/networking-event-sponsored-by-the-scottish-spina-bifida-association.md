@@ -2,7 +2,7 @@
 title: Networking Event Sponsored By The Scottish Spina Bifida Association
 shortdesc: "Business Owners , Decision Makers and Influencers. Come and enjoy a profitable"
 cmsUserSlug: networking-event-sponsored-by-the-scottish-spina-bifida-association
-date: 2015-03-23
+date: 2015-09-23
 ---
 
 The Scottish Spina Bifida Association and Lanarkshire Chamber of Commerce invite you to their inaugural networking event.
