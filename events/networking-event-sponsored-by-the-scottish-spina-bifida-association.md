@@ -1,4 +1,3 @@
-networking-event-sponsored-by-the-scottish-spina-bifida-association
 ---
 title: Networking Event Sponsored By The Scottish Spina Bifida Association
 shortdesc: "Business Owners , Decision Makers and Influencers. Come and enjoy a profitable"

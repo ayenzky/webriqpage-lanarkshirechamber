@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Author", name: "metauthor", widget: "string"}
               - {label: "Keywords", name: "metakeyword", widget: "string"}
               - {label: "Footer", name: "footer", widget: "markdown"}
-              - {label: "Google Analytics", name: "analytics", widget: "markdown"}
+              # - {label: "Google Analytics", name: "analytics", widget: "markdown"}
   # - name: "menus"
   #   label: "Menu"
   #   files:
