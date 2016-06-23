@@ -1,22 +1,20 @@
 extends layout
 
 block content
-  h1.title-header Event Archives
-  hr
-  .event-wrapper
-    //- ul
-    //-   for event, i in records.events
-    //-     if i < config.static_items
-    //-       include templates/event
+	h1.title-header Event Archives
+	hr
+	.event-wrapper
+		each event in events.sort('date', 'desc')
+			.event-items
+				h2.event-title
+					a(href= event.permalink)= event.title
+				.event-day
+					i(class="fa fa-clock-o", aria-hidden="true")
+						date= dateFormat(event.date, 'dddd, LL')
+				.clear
+				.event-shortdesc
+					p!= event.shortdesc
+					p.read-more
+						a(href= event.permalink) Read More
 
-    //- button.more See more
 
-    each event in events.sort('date', 'desc')
-      .event-items
-        h2.event-title= event.title
-        .event-day
-          i(class="fa fa-clock-o", aria-hidden="true")
-            date= dateFormat(event.date, 'dddd, LL')
-        .clear
-        .event-shortdesc
-          p!= event.shortdesc
