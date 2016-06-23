@@ -32,16 +32,9 @@ module.exports =
     records(
       menu: { file: "data/menu.json" }
       site: { file: "data/site.json" }
-      events:
-        file: api_url,
-        hook: (res) ->
-          p = res.events
-          p.sort(sortBy('-date'))
-          return p
-
     ),
     roots_config(api_url: api_url, static_items: 2),
-    collections(folder: 'news', layout: 'page'),
+    collections(folder: 'news', layout: 'post'),
     collections(folder: 'page', layout: 'page'),
     collections(folder: 'events', layout: 'page'),
     collections(folder: 'slider', layout: 'post'),
