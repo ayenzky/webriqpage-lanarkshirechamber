@@ -2,7 +2,7 @@
 title: Chamber Of Commerce Business Fair
 shortdesc: "Business Owners , Decision Makers and Influencers. Come and enjoy a profitable"
 cmsUserSlug: chamber-of-commerce-business-fair
-date: 2015-03-10 
+date: 2015-09-03 
 ---
 
 Business Owners , Decision Makers and Influencers. Come and enjoy a profitable business day out at our Business Fair to meet new contact , network and promote your own business.
