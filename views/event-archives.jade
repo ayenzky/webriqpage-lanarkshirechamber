@@ -4,7 +4,7 @@ block content
 	h1.title-header Event Archives
 	hr
 	.event-wrapper
-		each event in events.sort('date', 'desc')
+		each event in events.sort('date', 'asc')
 			.event-items
 				h3.event-title
 					a(href= event.permalink)= event.title
