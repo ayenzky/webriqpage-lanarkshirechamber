@@ -1,16 +1,16 @@
 #header-wrapper
 	.container
 		.row
-			//- #logo-container.col-xs-5.col-lg-3
-			//- 	a(href='/')
-			//- 		img(src= records.site.sitedata[0].logo)
-			//- #contact.col-xs-7.col-sm-7.col-lg-9.right
-			//- 		ul
-			//- 			li
-			//- 				<strong>t</strong>: 01698 - 426882
-			//- 			li.divider |
-			//- 			li
-			//- 				<strong>e</strong>: info@lanarkshirechamber.org
+			#logo-container.col-xs-5.col-lg-3
+				a(href='/')
+					img(src= records.site.sitedata[0].logo)
+			#contact.col-xs-7.col-sm-7.col-lg-9.right
+					ul
+						li
+							<strong>t</strong>: 01698 - 426882
+						li.divider |
+						li
+							<strong>e</strong>: info@lanarkshirechamber.org
 			#menu-container.col-xs-12.col-lg-9
 
 				.navbar-header
@@ -76,31 +76,31 @@
 						li
 							a(href='/contact') Contact
 
-//- if _path == "/index.html"
-//- 	#banner
-//- 		//- .main
-//- 		//- 	ul#cbp-bislideshow.cbp-bislideshow
-//- 		//- 		each slide in slider.sort('date', 'desc')
-//- 		//- 			li
-//- 		//- 				img(src= slide.banner, alt= slide.title)
-//- 		//- 				.caption
-//- 		//- 					h1= slide.title
-//- 		//- 					h3= slide.shortdesc
-//- 		//- 			//- li
-//- 		//- 			//- 	img(src='./img/export.jpg', alt='image02')
-//- 		//- 			//- 	.caption
-//- 		//- 			//- 		h1 Think Export
-//- 		//- 			//- 		h3 Leisure & Hospitality And International Trade. All Closer With Lanarkshire Chamber Of Commerce.
-//- 		//- 			//- li
-//- 		//- 			//- 	img(src='./img/networking.jpg', alt='image03')
-//- 		//- 			//- 	.caption
-//- 		//- 			//- 		h1 Think Networking
-//- 		//- 			//- 		h3 Getting Together Makes A Difference, Working Together Creates Opportunity.
+if _path == "/index.html"
+	#banner
+		.main
+			ul#cbp-bislideshow.cbp-bislideshow
+				each slide in slider.sort('date', 'desc')
+					li
+						img(src= slide.banner, alt= slide.title)
+						.caption
+							h1= slide.title
+							h3= slide.shortdesc
+					//- li
+					//- 	img(src='./img/export.jpg', alt='image02')
+					//- 	.caption
+					//- 		h1 Think Export
+					//- 		h3 Leisure & Hospitality And International Trade. All Closer With Lanarkshire Chamber Of Commerce.
+					//- li
+					//- 	img(src='./img/networking.jpg', alt='image03')
+					//- 	.caption
+					//- 		h1 Think Networking
+					//- 		h3 Getting Together Makes A Difference, Working Together Creates Opportunity.
 
-//- 		//- 	#cbp-bicontrols.cbp-bicontrols
-//- 		//- 		span.cbp-biprev
-//- 		//- 		span.cbp-bipause
-//- 		//- 		span.cbp-binext
+			#cbp-bicontrols.cbp-bicontrols
+				span.cbp-biprev
+				span.cbp-bipause
+				span.cbp-binext
 
-//- else
-//- 	#main-banner
+else
+	#main-banner
