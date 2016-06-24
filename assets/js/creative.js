@@ -80,7 +80,7 @@ var isMobile = {
 
 if( isMobile.iOS() ) {
 
-  alert('iOS');
+  $('body').addClass('ios-mode');
 
 }
 
