@@ -1,0 +1,20 @@
+extends layout
+
+block content
+  h1.title-header Event Archives
+  hr
+  .event-wrapper
+    each event in events.orderBy('date', 'desc').slice(10,20)
+      .event-items
+        h3.event-title
+          a(href= event.permalink)= event.title
+        .event-day
+          i(class="fa fa-clock-o", aria-hidden="true")
+            date= dateFormat(event.date, 'dddd, LL')
+        .clear
+        .event-shortdesc
+          p!= event.shortdesc
+          p.read-more
+            a(href= event.permalink) Read More
+
+
