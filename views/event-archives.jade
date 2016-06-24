@@ -16,5 +16,15 @@ block content
 					p!= event.shortdesc
 					p.read-more
 						a(href= event.permalink) Read More
+	nav
+		ul.pager
+			li.previous.disabled
+				a(href='#')
+					span(aria-hidden='true') ←
+					|  Older
+			li.next
+				a(href='/event-archives-page=2')
+					| Newer
+					span(aria-hidden='true') →
 
 
