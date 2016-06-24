@@ -26,6 +26,9 @@
     content: "\f0c0"; }
 
   /**Menu Icons End Here**/
+  .cms.cms-list-controls .cms.cms-new-link{
+    display: none !important;
+  }
 
   #main-wrapper .main-container,
   #main-wrapper .container {
