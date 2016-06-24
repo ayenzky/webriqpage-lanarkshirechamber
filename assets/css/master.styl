@@ -90,7 +90,7 @@ h1.title-header
 
 .nav > li.dropdown a:hover .caret,
 .nav > li.dropdown.open .caret
-  color:#fff
+  color:#fff !important
 
 .nav > li:nth-child(2) .dropdown-menu a
   color:#888
@@ -538,10 +538,15 @@ h1.title-header
   color:#fff
   font-weight:300
 
+@media (max-width: 1024px)
+  body.ios-mode #banner ul li .caption
+    bottom:45%
+    width:50%
+
+
 @media (max-width: 800px)
   body.ios-mode #banner ul li .caption
-    bottom:40%
-    width:85%
+    width:60%
 
 
 @media (max-width: 767px)
