@@ -8,7 +8,9 @@
 				table.event-handler
 						thead
 							tr
-								th(colspan="2") List of Events
+								th List of Events
+								th
+									a(href) All
 						tbody
 							each event in events.orderBy('date', 'desc').slice(0,3)
 								tr
