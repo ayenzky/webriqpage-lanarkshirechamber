@@ -80,7 +80,7 @@ if _path == "/index.html"
 	#banner
 		.main
 			ul#cbp-bislideshow.cbp-bislideshow
-				each slide in slider.sort('date', 'desc')
+				each slide in slider.sort('date', 'asc')
 					li
 						img(src= slide.banner, alt= slide.title)
 						.caption

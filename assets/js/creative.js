@@ -85,7 +85,11 @@ if( isMobile.iOS() ) {
 }
 
 
-
+// Install Cookies
+document.addEventListener('DOMContentLoaded', function(event) {
+  cookieChoices.showCookieConsentBar('Cookies help us deliver our services. By using our services, you agree to our use of cookies.',
+    'Got it', 'learn more', '/page/cookies');
+});
 
 
 })(jQuery); // End of use strict

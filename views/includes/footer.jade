@@ -22,10 +22,10 @@
 						a(href="/event-archives") Events
 					li
 						a(href="/contact") Contact
-					li
-						a(href="/page/membership") Website Terms
-					li
-						a(href="/page/privacy-policy") Privacy Policy
+					//- li
+					//- 	a(href="/page/membership") Website Terms
+					//- li
+					//- 	a(href="/page/privacy-policy") Privacy Policy
 					li
 						a(href="/page/cookie-policy") Cookie Policy
 					li
@@ -66,16 +66,16 @@
 
 				ul#social-media
 					li
-						a(href="")
+						a(href="//www.facebook.com/Lanarkshire-Chamber-of-Commerce-332487226795602/" target="_blank")
 							img(src="../img/fb.jpg")
 					li
-						a(href="")
+						a(href="//twitter.com/lanarkshirecofc" target="_blank")
 							img(src="../img/twitter.jpg")
+					//- li
+					//- 	a(href="")
+					//- 		img(src="../img/gplus.jpg")
 					li
-						a(href="")
-							img(src="../img/gplus.jpg")
-					li
-						a(href="")
+						a(href="//www.linkedin.com/company/lanarkshire-chamber-of-commerce" target="_blank")
 							img(src="../img/linked.jpg")
 
 
@@ -84,6 +84,7 @@
 		.row
 			.col-lg-12
 				p= records.site.sitedata[0].footer
+div(id="cookieChoiceInfo" style="display: none;") Cookies help us deliver our services. By using our services, you agree to our use of cookies.<a style="margin-left: 8px;" href="/page/cookie-policy" target="_blank">learn more</a> <a id="cookieChoiceDismiss" style="margin-left: 24px;" href="#">Got it</a></div>
 
 
 script(src="../js/main.js")
@@ -98,7 +99,7 @@ script(src="../js/bootstrap.min.js")
 
 script(src="../js/jquery.easing.min.js")
 script(src="../js/jquery.fittext.js")
-//- script(src="../js/simplecalendar.js")
+script(src="../js/cookies.js")
 script(src="../js/wow.min.js")
 
 
