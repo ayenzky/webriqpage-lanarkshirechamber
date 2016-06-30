@@ -15,7 +15,7 @@ sortObj = require 'sort-object'
 sortBy = require 'sort-by'
 SitemapGenerator = require 'sitemap-generator'
 
-sitemap = 'window.location.host'
+sitemap = 'lanarkshirechamber.co.uk'
 
 generator = new SitemapGenerator(sitemap);
 generator.on 'done', (sitemap)->
