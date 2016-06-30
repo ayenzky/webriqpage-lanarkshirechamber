@@ -1,9 +1,9 @@
 ---
 title: Clyde Extension
 banner: /img/wind-farm_f74d2a867739a6401573707ae7f2d882.jpg
-shortdesc: Following consent from the Scottish Government in July 2014,
+shortdesc: "Following consent from the Scottish Government in July 2014,"
 cmsUserSlug: clyde-extension
-date: 2014-07-14
+date: 2014-07-14T00:00:00.000Z
 ---
 
 Following consent from the Scottish Government in July 2014, SSE is preparing plans for the construction of the Clyde extension wind farm project situated between Biggar, Abington and Moffat on the South Lanarkshire and Scottish Borders boundary.
