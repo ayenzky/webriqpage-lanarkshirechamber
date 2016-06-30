@@ -4,10 +4,10 @@
     <loc>http://lanarkshirechamber.co.uk/</loc>
   </url>
   <url>
-    <loc>http://lanarkshirechamber.co.uk/page/our-commitment</loc>
+    <loc>http://lanarkshirechamber.co.uk/page/our-team</loc>
   </url>
   <url>
-    <loc>http://lanarkshirechamber.co.uk/page/our-team</loc>
+    <loc>http://lanarkshirechamber.co.uk/page/our-commitment</loc>
   </url>
   <url>
     <loc>http://lanarkshirechamber.co.uk/page/membership</loc>
@@ -117,8 +117,4 @@
   <url>
     <loc>http://lanarkshirechamber.co.uk/events/environmental-management-for-successful-business</loc>
   </url>
-<<<<<<< HEAD
 </urlset>
-=======
-</urlset>
->>>>>>> 5d0345d2e6846721e9d646461f6e00e8dcb20c99
