@@ -19,7 +19,7 @@ sitemap = 'lanarkshirechamber.co.uk'
 
 generator = new SitemapGenerator(sitemap);
 generator.on 'done', (sitemap)->
- fs.writeFile 'views/sitemap.xml', sitemap, ->
+ fs.writeFile 'public/sitemap.xml', sitemap, ->
   console.log('It\'s saved!')
 
 generator.start();
