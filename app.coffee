@@ -1,3 +1,4 @@
+fs           = require 'fs'
 axis         = require 'axis'
 rupture      = require 'rupture'
 autoprefixer = require 'autoprefixer-stylus'
@@ -12,6 +13,17 @@ roots_config = require 'roots-config'
 ClientTemplates = require 'client-templates'
 sortObj = require 'sort-object'
 sortBy = require 'sort-by'
+SitemapGenerator = require 'sitemap-generator'
+
+sitemap = 'window.location.host'
+
+generator = new SitemapGenerator(sitemap);
+generator.on 'done', (sitemap)->
+ fs.writeFile 'views/sitemap.xml', sitemap, ->
+  console.log('It\'s saved!')
+
+generator.start();
+
 
 monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]
 
