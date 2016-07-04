@@ -19,7 +19,7 @@
     "roots-config": "0.0.2",
     "roots-records": "^0.5.1",
     "rupture": "0.6.x",
-    "sitemap-generator": "^4.0.0",
+    "sitemap-generator": "^4.1.0",
     "sort-by": "^1.1.1",
     "sort-object": "^3.0.2",
     "sorty": "^1.2.2",
