@@ -17,18 +17,6 @@ sortBy = require 'sort-by'
 
 
 
-sitemap = 'https://lanarkshirechamber.co.uk'
-
-
-generator = new SitemapGenerator(sitemap);
-
-generator.on 'done', (sitemap)->
-  fs.writeFile 'public/sitemap.xml', sitemap, ->
-    console.log(sitemap);
-
-generator.start();
-
-
 monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]
 
 api_url = 'data/events.json'
