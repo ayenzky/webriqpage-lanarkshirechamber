@@ -1,7 +1,7 @@
 extends layout
 
 block content
-	h1.title-header Event Archives
+	h1.title-header List of Events
 	hr
 	.event-wrapper
 		each event in events.orderBy('date', 'desc').slice(10,30)
@@ -21,9 +21,9 @@ block content
 			li.previous
 				a(href='/event-archives')
 					span(aria-hidden='true') ←
-					| Older
+					| Newer
 			li.next.disabled
 				a(href='#')
-					| Newer
+					| Older
 					span(aria-hidden='true') →
 
