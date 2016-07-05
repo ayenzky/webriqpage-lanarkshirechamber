@@ -4,7 +4,7 @@ block content
 	h1.title-header Event Archives
 	hr
 	.event-wrapper
-		each event in events.orderBy('date', 'desc').slice(10,20)
+		each event in events.orderBy('date', 'asc').slice(10,20)
 			.event-items
 				h3.event-title
 					a(href= event.permalink)= event.title
@@ -21,9 +21,9 @@ block content
 			li.previous
 				a(href='/event-archives')
 					span(aria-hidden='true') ←
-					| Newer
+					| Older
 			li.next.disabled
 				a(href='#')
-					| Older
+					| Newer
 					span(aria-hidden='true') →
 

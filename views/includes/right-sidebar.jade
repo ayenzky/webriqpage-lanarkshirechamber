@@ -13,7 +13,7 @@
 									a.right(href="/event-archives") VIEW ALL
 
 						tbody
-							each event in events.orderBy('date', 'desc').slice(0,4)
+							each event in events.orderBy('date', 'asc').slice(0,4)
 								tr
 									td.event-date
 										.date-cal= dateFormat(event.date, 'MMM')
