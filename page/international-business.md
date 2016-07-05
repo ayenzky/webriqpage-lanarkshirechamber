@@ -34,9 +34,9 @@ If you require your document to be legalised by a particular embassy, consulate,
 
 4. Apply over the counter, by post or electronically
 
-Members receive up to 50% discount on most export documents. For more information on Certificates of Origin, EUR1 and ATR Movement Certificates or any other export documents contact us on T: +44 01698 424699 or Email info@lanarkshirechamber.org
+Members receive up to 50% discount on most export documents. For more information on Certificates of Origin, EUR1 and ATR Movement Certificates or any other export documents contact us on T: 01698 426 882 or Email info@lanarkshirechamber.org
 
-To chat through how becoming a member of Lanarkshire Chamber of Commerce can help your business, and save you up to 50% on export documentation contact us on T: +44 01698 424699 or E: info@lanarkshirechamber.org Alternatively you can give us a few details here and we'll call you back or [link to application form] to post to us
+To chat through how becoming a member of Lanarkshire Chamber of Commerce can help your business, and save you up to 50% on export documentation contact us on T: 01698 426 882 or E: info@lanarkshirechamber.org Alternatively you can give us a few details here and we'll call you back or [link to application form] to post to us
 
 ### EUR 1 Form (Movement Certificate)
 
@@ -67,9 +67,9 @@ Cariforum Countries: Antigua and Barbuda, Bahamas, Barbados, Belize, Dominica, D
 The ATR Certificate entitles goods, which are in 'free circulation' in the EU (i.e. the goods are EU-originating, or on importation into the EU all the relevant duties and taxes have been paid) to receive preferential import duty treatment when shipped to Turkey. This applies to all eligible goods except agricultural goods, minerals and steel which require an EUR1 Movement Certificate.
 Members receive up to 50% discount on most export documents.
 
-For more information on Certificates of Origin, EUR1 and ATR Movement Certificates or any other export documents contact us on T 01698 424699 or email
+For more information on Certificates of Origin, EUR1 and ATR Movement Certificates or any other export documents contact us on T: 01698 426 882 or email
 
-To chat through how becoming a member of Lanarkshire Chamber of Commerce can help your business, and save you up to 50% on export documentation contact us on T 01698 424699 or E info@lanarkshirechamber.org Alternatively you can give us a few details here and we'll call you back or download an application form to post to us.
+To chat through how becoming a member of Lanarkshire Chamber of Commerce can help your business, and save you up to 50% on export documentation contact us on T: 01698 426 882 or E info@lanarkshirechamber.org Alternatively you can give us a few details here and we'll call you back or download an application form to post to us.
 
 ### How to Buy Export Documents and Pricelist
 
