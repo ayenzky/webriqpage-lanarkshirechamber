@@ -10,10 +10,10 @@
 							tr
 								th(colspan="2")
 									| List of Events
-									a.right(href="/event-archives") VIEW ALL
+									a.right(href="/event-list") VIEW ALL
 
 						tbody
-							each event in events.orderBy('date', 'desc').slice(0,4)
+							each event in events.orderBy('date', 'asc').slice(0,4)
 								tr
 									td.event-date
 										.date-cal= dateFormat(event.date, 'MMM')
