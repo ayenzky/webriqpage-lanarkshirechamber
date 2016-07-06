@@ -9,7 +9,7 @@ html
     link(rel="icon", href= records.site.sitedata[0].icon, type="image/*")
     link(rel="shortcut icon", href= records.site.sitedata[0].icon, type="img/*")
 
-    link(rel="stylesheet", href="//cms.webriq.com/assets/cms.css")
+    link(rel="stylesheet", href="https://cms.webriq.com/assets/cms.css")
 
     link(rel="stylesheet", href="/css/style.css")
 
@@ -78,6 +78,22 @@ html
       </div>
 
     script(type="text/x-handlebars" data-template-name='cms/preview/events').
+      <div id="main-wrapper">
+        <div class="container">
+            <section class="box">
+                  <h3>{{entry.title}}</h3>
+                  <div class="shortdesc">
+                  {{cms-preview field='shortdesc' from=event}}
+                  </div>
+                  <br>
+                  <div class="body-content">
+                  {{cms-preview field='body'}}
+                  </div>
+            </section>
+        </div>
+      </div>
+
+    script(type="text/x-handlebars" data-template-name='cms/preview/event-archives').
       <div id="main-wrapper">
         <div class="container">
             <section class="box">

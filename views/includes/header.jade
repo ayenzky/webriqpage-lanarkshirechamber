@@ -69,8 +69,13 @@
 										li
 											a(href="../page/training") Training
 
-						li
-							a(href='/event-archives') Events
+						li.dropdown
+							a(href='/', class="dropdown-toggle", data-toggle="dropdown", role="button", aria-haspopup="true", aria-expanded="false") Events <i class="fa fa-caret-down" aria-hidden="true"></i>
+							ul.dropdown-menu
+								li
+									a(href="/event-list") Event List
+								li
+									a(href="/event-archives") Event Archives
 						li
 							a(href='/news') News
 						li
