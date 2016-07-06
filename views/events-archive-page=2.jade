@@ -1,7 +1,7 @@
 extends layout
 
 block content
-	h1.title-header Event Archives
+	h1.title-header Events Archive
 	hr
 	.event-wrapper
 		each archive in archives.orderBy('date', 'desc').slice(10,30)
