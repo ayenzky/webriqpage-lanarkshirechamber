@@ -1,0 +1,29 @@
+extends layout
+
+block content
+	h1.title-header Events Archive
+	hr
+	.event-wrapper
+		each archive in archives.orderBy('date', 'desc').slice(10,30)
+			.event-items
+				h3.event-title
+					a(href= archive.permalink)= archive.title
+				.event-day
+					i(class="fa fa-clock-o", aria-hidden="true")
+						date= dateFormat(archive.date, 'dddd, LL')
+				.clear
+				.event-shortdesc
+					p!= archive.shortdesc
+					p.read-more
+						a(href= archive.permalink) Read More
+	nav
+		ul.pager
+			li.previous
+				a(href='/event-archives')
+					span(aria-hidden='true') ←
+					| Newer
+			li.next.disabled
+				a(href='#')
+					| Older
+					span(aria-hidden='true') →
+
