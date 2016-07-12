@@ -1,120 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/our-commitment</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/our-team</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/membership</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/event-sponsorship</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/international-business</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/export-and-import-advice</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/in-commerce-magazine</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/referral-scheme</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/corporate-partnership</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/funding</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/training</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/event-archives</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/news</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/contact</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/networking-event-sponsored-by-the-scottish-spina-bifida-association</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/b50-in-partnership-with-lanarkshire-chamber-of-commerce-interactive-networking-event</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/chamber-of-commerce-business-fair</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/mentally-healthy-workplace-training-for-line-managers</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/page/cookies</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/sitemap.xml</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/pensions-biggest-change-in-a-century</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/networking-lunch-sponsored-by-volopa</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/improving-attendance-and-managing-sickness-absence</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/network-and-celebrate-50-years-of-the-transit-with-evans-hallshaw</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/pensions-biggest-change-in-a-century-may-19-2015</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/internet-security-breakfast</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/event-archives-page=2</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/news/2015-the-year-of-the-pension</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/news/clyde-extension</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/news/introducing-greenhills</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/news/saltire-foundation</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/economist-breakfast-with-paul-abberley-charles-stanley</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/fire-safety-awareness-fire-risk-assessment-module</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/inspire-scotland</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/sensible-risk-assessment</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/managing-safety-health</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/getting-the-most-from-accredited-certification</loc>
-  </url>
-  <url>
-    <loc>http://lanarkshirechamber.co.uk/events/environmental-management-for-successful-business</loc>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://lanarkshirechamber.co.uk/</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/our-commitment</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/our-team</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/membership</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/event-sponsorship</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/international-business</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/export-and-import-advice</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/in-commerce-magazine</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/referral-scheme</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/corporate-partnership</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/funding</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/training</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events-list</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events-archive</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/news</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/contact</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/networking-breakfast-buzzin-lanarkshire</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/networking-lunch</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/joint-chamber-networking-event</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/networking-breakfast-spenergy</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/page/cookies</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/networking-lunch-rubi-functionality</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/networking-lunch-volopa</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/polmont-prison-visit</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/fit-for-business</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/fit-for-business-april-2017</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/ladies-spa-day</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events/joint-chambers-quiz-night</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/networking-event-sponsored-by-the-scottish-spina-bifida-association</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/chamber-of-commerce-business-fair</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/b50-in-partnership-with-lanarkshire-chamber-of-commerce-interactive-networking-event</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/mentally-healthy-workplace-training-for-line-managers</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/pensions-biggest-change-in-a-century</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/networking-lunch-sponsored-by-volopa</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/improving-attendance-and-managing-sickness-absence</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/network-and-celebrate-50-years-of-the-transit-with-evans-hallshaw</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/pensions-biggest-change-in-a-century-may-19-2015</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/internet-security-breakfast</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/economist-breakfast-with-paul-abberley-charles-stanley</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/fire-safety-awareness-fire-risk-assessment-module</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/inspire-scotland</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/sensible-risk-assessment</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/managing-safety-health</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/getting-the-most-from-accredited-certification</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/archives/environmental-management-for-successful-business</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/events-archive-page=2</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/news/2015-the-year-of-the-pension</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/news/clyde-extension</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/news/introducing-greenhills</loc>
+</url>
+<url>
+  <loc>https://lanarkshirechamber.co.uk/news/saltire-foundation</loc>
+</url>
 </urlset>
