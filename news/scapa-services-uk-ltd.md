@@ -40,17 +40,15 @@ date: 2016-08-01
 
 **KEY BENEFITS**
 
-**Full acknowledgement and understanding of strategic importance of a professionally managed Procurement function**
+Full acknowledgement and understanding of strategic importance of a professionally managed Procurement function
 
-**Awareness of risks that require Procurement management and ownership**
+Awareness of risks that require Procurement management and ownership
 
-**Understanding what a properly structured Procurement function can**
+Understanding what a properly structured Procurement function can capably deliver in your business
 
- **capably deliver in your business**
+Knowledge of how a properly managed supplier base can provide massive operational and financial benefit
 
-**Knowledge of how a properly managed supplier base can provide massive operational and financial benefit**
-
-**Changing any perception that Procurement is clerical only activity**
+Changing any perception that Procurement is clerical only activity
 
 **PRESENTER**
 
