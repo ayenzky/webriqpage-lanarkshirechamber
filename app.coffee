@@ -68,13 +68,12 @@ module.exports =
 
     options = {
       url: 'https://lanarkshirechamber.co.uk',
-      file: '**/*.html',
-      directory: '!node_modules', '!admin'
+      file: '**/*.html'
     }
 
     result = ""
 
-    stream = readdirp({root:path.join(__dirname), fileFilter: [options.file], directoryFilter: [options.directory]})
+    stream = readdirp({root:path.join(__dirname), fileFilter: [options.file], directoryFilter: ['!node_modules','!admin','!includes', '!slider']})
     stream.on 'data', (entry)->
 
       url_path = entry.path
