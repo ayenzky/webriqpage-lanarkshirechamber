@@ -1,5 +1,6 @@
 ---
 title: 2015 - The year of the Pension
+subtitle: ""
 banner: /img/craig-southern.jpg
 shortdesc: Savers will have more choice in retirement thanks to dramatic changes.
 cmsUserSlug: 2015-the-year-of-the-pension

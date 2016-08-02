@@ -1,20 +1,21 @@
 ---
 title: "SCAPA Services (UK) Ltd,"
+subtitle: "Lanarkshire Chamber welcomes new member"
 banner: /img/scapa.jpg
 shortdesc: "“HOW TO INCREASE PROFITABILITY BY 10% PER ANNUM WITHOUT HAVING TO INCREASE SALES AND DECREASE BUSINESS RISK”"
 cmsUserSlug: ""
-date: 2016-08-01 
+date: 2016-08-01
 ---
 
 **Provide a holistic overview of probably the most strategically important, yet underestimated function within your organisation.**
 
- * “Leaders Can No Longer Afford to Downplay Procurement” 
+ * “Leaders Can No Longer Afford to Downplay Procurement”
  * “The Golden Age of Procurement”
  * “Organizations face a choice: maintain the status quo or reach higher by unleashing the full potential of their supply base”
 
 **Provide Awareness On A Host Of Current Procurement Legislation**
 
- * Modern Slavery Act 2015 
+ * Modern Slavery Act 2015
  * Procurement Reform (Scotland) Act 2014
  * Scottish Model of Procurement
  * Health and Safety At Work Act
@@ -33,7 +34,7 @@ date: 2016-08-01
 
 **Identify Areas For Contribution To Business Competitiveness**
  * Taking the necessary steps to increase profitability
- * Reducing and/or removing unnecessary costs and efficiencies 
+ * Reducing and/or removing unnecessary costs and efficiencies
  * Investing in the necessary resources to retain current business
  * Understanding and mitigating or eliminating business risk
  * Developing a robust business capability
@@ -74,7 +75,7 @@ Allan Wright is a highly experienced, knowledgeable, influential and passionate 
  * Supply Agreement and Contracts construction &amp; implementation
  * Supplier consolidation strategy and programmes
  * Functional gap analysis provision
- 
+
 **Qualifications:**
 
 Masters Degree in Policy, Strategy &amp; Tactics (MBA)
@@ -89,11 +90,13 @@ Fellow Chartered Institute of Procurement &amp; Supply (FCIPS)
 
 Corporate Member Chartered Management Institute (MCMI)
 
+![image]( /img/My_Profile_Photo.jpg)
+
 Contact: Allan Wright
 
 Mobile: +44 7464 696 398
 
-Skype: +44 141 628 8772 
+Skype: +44 141 628 8772
 
 Email: [allan.wright@scapa-services.co.uk](mailto:allan.wright@scapa-services.co.uk)
 

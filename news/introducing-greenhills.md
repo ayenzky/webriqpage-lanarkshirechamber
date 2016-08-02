@@ -1,5 +1,6 @@
 ---
 title: Introducing Greenhills
+subtitle: ""
 banner: /img/intro-greenhills_c01d99e8119ced1e550488c62e53d5fa.jpg
 shortdesc: Stewart Meikle, Commercial Director of AmeyCespa, the waste division of infrastructure company Amey and who is based at Amey's Eurocentral office in Motherwell, writes to tell fellow members of the Chamber about a new project the company is proposing for North Lanarkshire.
 cmsUserSlug: introducing-greenhills

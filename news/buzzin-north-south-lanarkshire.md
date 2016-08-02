@@ -1,9 +1,10 @@
 ---
 title: "Buzzin North & South Lanarkshire"
+subtitle: "Lanarkshire Chamber welcomes new member"
 banner: /img/buzzin-uk-logo.png
 shortdesc: We are a local Community Based Website currently covering North Lanarkshire www.northlanarkshire.buzzin.today and South Lanarkshire www.southlanarkshire.buzzin.today .
 cmsUserSlug: ""
-date: 2016-08-01 
+date: 2016-08-01
 ---
 
 We are a local Community Based Website currently covering North Lanarkshire [www.northlanarkshire.buzzin.today](http://www.northlanarkshire.buzzin.today) and South Lanarkshire [www.southlanarkshire.buzzin.today](http://www.southlanarkshire.buzzin.today) .
@@ -18,7 +19,7 @@ We are a local Community Based Website currently covering North Lanarkshire [www
 
  Through our Webfactories platform we provide website design, hosting and a range of digital marketing services designed to increase your businesses on-line visibility and credibility.
 
- ![image]( /img/webpresence.jpg)  
+ ![image]( /img/webpresence.jpg)
 
 Contact: Bob Wotherspoon, Business Manager
 
