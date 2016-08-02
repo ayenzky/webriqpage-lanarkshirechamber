@@ -7,6 +7,7 @@ block content
 		.news-item
 			h3.news-title
 				a(href=newss.permalink)= newss.title
+			h4.news-subtitle= newss.subtitle
 			.published
 				i(class="fa fa-clock-o", aria-hidden="true")
 				date= dateFormat(newss.date, 'dddd, LL')
