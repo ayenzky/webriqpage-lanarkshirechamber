@@ -14,6 +14,8 @@ ClientTemplates = require 'client-templates'
 SitemapGenerator = require 'sitemap-generator'
 sortObj = require 'sort-object'
 sortBy = require 'sort-by'
+path = require 'path'
+readdirp = require 'readdirp'
 
 
 
@@ -24,7 +26,7 @@ monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "O
 api_url = 'data/events.json'
 
 module.exports =
-  ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf']
+  ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf', '**/page.html', 'admin/*']
 
   locals:
     postExcerpt: (html, length, ellipsis) ->
@@ -61,3 +63,25 @@ module.exports =
 
   server:
     clean_urls: true
+
+  after:->
+
+    options = {
+      url: 'https://lanarkshirechamber.co.uk',
+      file: '**/*.html'
+    }
+
+    result = ""
+
+    stream = readdirp({root:path.join(__dirname), fileFilter: [options.file], directoryFilter: ['!node_modules','!admin','!includes', '!slider']})
+    stream.on 'data', (entry)->
+
+      url_path = entry.path
+      str = url_path.replace(/\\/g, "/")
+      file = str.substr(6);
+
+      result += "<url><loc>" + options.url + file + "</loc></url>" + "\n";
+
+      fs.writeFile 'public/sitemap.xml', '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+result+'</urlset>', (err) ->
+        if err then console.log err
+        # console.log(result);
