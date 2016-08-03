@@ -26,7 +26,7 @@ monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "O
 api_url = 'data/events.json'
 
 module.exports =
-  ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf', '**/page.html', 'admin/*']
+  ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf', '**/page.html']
 
   locals:
     postExcerpt: (html, length, ellipsis) ->
