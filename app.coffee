@@ -73,7 +73,7 @@ module.exports =
 
     result = ""
 
-    stream = readdirp({root:path.join(__dirname), fileFilter: [options.file], directoryFilter: ['!node_modules','!includes', '!slider']})
+    stream = readdirp({root:path.join(__dirname), fileFilter: [options.file], directoryFilter: ['!node_modules','!includes','!admin','!slider']})
     stream.on 'data', (entry)->
 
       url_path = entry.path
