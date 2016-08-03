@@ -9,6 +9,8 @@ Time: 10:00 AM
 
 Date: Wednesday 18 January 2017
 
+Webinar by Business Fraud Prevention Partnership - How to: Prevent fraud and cyber-crime (exclusively for Lanarkshire Chamber Members)  
+
 Lanarkshire Chambers of Commerce have teamed up with the Business Fraud Prevention Partnership to deliver a webinar to assist members in preventing fraud and cyber-crime. Fraud currently affects 49% of all SMEs, with 94% of such incidents being entirely preventable.
 
 During this webinar, former police officer and qualified solicitor, Eddie Whittingham, will provide members with valuable fraud prevention measures and techniques, specifically tailored to SMEs. In addition, all attendees will benefit from a free fraud and cyber-crime risk assessment, as well as a free innovative phishing email simulation.
