@@ -1,7 +1,7 @@
 ---
 title: "SCAPA Services (UK) Ltd,"
 subtitle: "Lanarkshire Chamber welcomes new member"
-banner: /img/scapa.jpg
+banner: /img/My_Profile_Photo.jpg
 shortdesc: "“HOW TO INCREASE PROFITABILITY BY 10% PER ANNUM WITHOUT HAVING TO INCREASE SALES AND DECREASE BUSINESS RISK”"
 cmsUserSlug: ""
 date: 2016-08-01
@@ -90,7 +90,6 @@ Fellow Chartered Institute of Procurement &amp; Supply (FCIPS)
 
 Corporate Member Chartered Management Institute (MCMI)
 
-![image]( /img/My_Profile_Photo.jpg)
 
 Contact: Allan Wright
 
