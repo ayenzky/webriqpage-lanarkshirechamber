@@ -1,7 +1,7 @@
 ---
 title: Webinar by Business Fraud Prevention Partnership - Sept 2016
 shortdesc: "Webinar - How to: Prevent fraud and cyber-crime (exclusively for Lanarkshire Chamber Members)"
-cmsUserSlug: ""
+cmsUserSlug: webinar-by-business-fraud-prevention-partnership-sept-2016
 date: 2016-09-29T00:00:00.000Z
 ---
 
