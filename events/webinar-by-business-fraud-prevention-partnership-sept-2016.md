@@ -17,7 +17,7 @@ The BFPP was founded by Eddie Whittingham, having had experience of working with
 
 Known for his down to earth manner and his ability to simplify even the most complicated matters, the webinar is not to be missed for all SME business owners wanting to ensure they're protected.
 
-<div id="mc_embed_signup events">
+<div id="mc_embed_signup" class="mc-events">
     <form action=
     "//thebfpp.us13.list-manage.com/subscribe/post?u=c0cf00f444bef656c188f1481&amp;id=d8b8b0f763"
     class="validate" id="mc-embedded-subscribe-form" method="post" name=
