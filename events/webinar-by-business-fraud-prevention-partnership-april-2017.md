@@ -1,9 +1,13 @@
 ---
 title: Webinar by Business Fraud Prevention Partnership - April 2017
 shortdesc: "Webinar - How to: Prevent fraud and cyber-crime (exclusively for Lanarkshire Chamber Members)"
-cmsUserSlug: ""
-date: 2017-04-11 
+cmsUserSlug: webinar-by-business-fraud-prevention-partnership-april-2017
+date: 2017-04-11T00:00:00.000Z
 ---
+
+Time: 2:00 PM
+
+Date: Tuesday 11 April 2017
 
 Lanarkshire Chambers of Commerce have teamed up with the Business Fraud Prevention Partnership to deliver a webinar to assist members in preventing fraud and cyber-crime. Fraud currently affects 49% of all SMEs, with 94% of such incidents being entirely preventable.
 
