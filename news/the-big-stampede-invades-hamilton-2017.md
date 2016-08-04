@@ -7,8 +7,6 @@ cmsUserSlug: ""
 date: 2016-08-04 
 ---
 
-![image](  /img/the-big-stampede-anne-clyde-from-uske-and-bill-reid-from-the-regent-ce....jpg)
-
 Safari Squad is Underway as Duo of Local Businesses Join the Pack to Raise Funds for Glasgow Children’s Hospital Charity
 
 There’s just one year to go until Hamilton is transformed into a safari animal kingdom and two local businesses have already signed up to support the creative tourism project and raise funds for charity.
@@ -20,6 +18,8 @@ Launched in partnership between Hamilton BID and Wild in Art, The BIG Stampede w
 The large-scale free public art event will bring businesses, artists and schools together to create a spectacular and colourful scuplture trail which will raise valuable funds for Glasgow Children’s Hospital Charity.
 
 The safari squad is underway with The Regent Shopping Centre pledging its support of a giant giraffe and UKSE, which specialises in supporting businesses and the local community in the traditional steel producing area, sponsoring an elephant.
+
+![image](  /img/the-big-stampede-anne-clyde-from-uske-and-bill-reid-from-the-regent-ce....jpg)
 
 Bill Reid, centre manager from The Regent Shopping Centre, said: “The Regent Shopping Centre in Hamilton is delighted to be involved with The BIG Stampede. The project is great for our shoppers, for the centre, for Hamilton and for such a great charity. The event will bring great colour to the town and to the region and will be a strong reason for people across Scotland to visit Hamilton and of course shop over the next 12 months.”
 
