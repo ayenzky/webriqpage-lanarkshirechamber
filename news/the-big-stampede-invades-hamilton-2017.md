@@ -4,7 +4,7 @@ subtitle: ONE YEAR TO GO UNTIL THE BIG STAMPEDE INVADES HAMILTON
 banner: /img/the-big-stampede-animals-at-royal-hospital-for-children-in-glasgow.jpg
 shortdesc: Safari Squad is Underway as Duo of Local Businesses Join the Pack to Raise Funds for Glasgow Children’s Hospital Charity
 cmsUserSlug: ""
-date: 2017-07-28 
+date: 2016-08-04 
 ---
 
 ![image](  /img/the-big-stampede-anne-clyde-from-uske-and-bill-reid-from-the-regent-ce....jpg)
