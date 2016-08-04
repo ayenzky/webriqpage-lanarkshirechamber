@@ -1,6 +1,6 @@
 ---
 title: CCG OSM ARE NOW ON SITE AT AN AFFORDABLE HOUSING DEVELOPMENT IN UDDINGSTON
-subtitle: "\"\""
+subtitle: AN AFFORDABLE HOUSING DEVELOPMENT IN UDDINGSTON
 banner: /img/3d-view-v2-1400x660.jpg
 shortdesc: " CCG OSM are now on site at a new affordable housing development located on Old Mill Road, Uddingston.  "
 cmsUserSlug: ""
