@@ -4,7 +4,7 @@ subtitle: VIBES Awards 2016
 banner: /img/gillian-bruce-chair-of-vibes-awards-compressed.jpg
 shortdesc: Levenseat Ltd and Re-Tek UK Limited in South Lanarkshire are among the 32 Scottish companies that have been shortlisted for this year’s Vision in Business for the Environment of Scotland (VIBES) Awards following a record number of entries.
 cmsUserSlug: ""
-date: null
+date: 2016-08-09 
 ---
 
 Levenseat Ltd and Re-Tek UK Limited in South Lanarkshire are among the 32 Scottish companies that have been shortlisted for this year’s Vision in Business for the Environment of Scotland (VIBES) Awards following a record number of entries. 
