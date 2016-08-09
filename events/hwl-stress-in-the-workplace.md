@@ -1,6 +1,6 @@
 ---
 title: HWL: Stress in the workplace
-shortdesc: Healthy Working Lives Training Programme 2016
+shortdesc: "Healthy Working Lives Training Programme 2016"
 cmsUserSlug: hwl-stress-in-the-workplace
 date: 2016-09-07
 ---

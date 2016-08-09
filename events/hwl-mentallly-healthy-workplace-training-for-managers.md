@@ -1,6 +1,6 @@
 ---
 title: HWL: Mentally Healthy Workplace Training for  Managers
-shortdesc: Healthy Working Lives Training Programme 2016
+shortdesc: "Healthy Working Lives Training Programme 2016"
 cmsUserSlug: hwl-mentallly-healthy-workplace-training-for-managers
 date: 2016-09-13
 ---
