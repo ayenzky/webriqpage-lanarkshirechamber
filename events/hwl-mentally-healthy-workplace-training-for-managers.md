@@ -1,13 +1,13 @@
 ---
 title: "HWL: Mentally Healthy Workplace Training for Managers"
 shortdesc: Healthy Working Lives Training Programme December 2016
-cmsUserSlug: ""
-date: 2016-12-06 
+cmsUserSlug: hwl-mentally-healthy-workplace-training-for-managers
+date: 2016-12-06T00:00:00.000Z
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
-**Time**: 1:30-3:30
+**Time**: 9:30-4:30
 
 Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
