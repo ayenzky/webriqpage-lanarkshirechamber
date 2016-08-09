@@ -1,8 +1,8 @@
 ---
-title: "HWL: Stress in the workplace"
-shortdesc: Healthy Working Lives Training Programme 2016
+title: "HWL: Stress in the Workplace"
+shortdesc: Healthy Working Lives Training Programme January 2017
 cmsUserSlug: ""
-date: 2016-09-07 
+date: 2017-01-11 
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
