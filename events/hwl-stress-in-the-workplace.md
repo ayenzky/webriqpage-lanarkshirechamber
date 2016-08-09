@@ -1,5 +1,5 @@
 ---
-title: "HWL: Stress in the workplace"
+title: HWL: Stress in the workplace
 shortdesc: Healthy Working Lives Training Programme 2016
 cmsUserSlug: hwl-stress-in-the-workplace
 date: 2016-09-07
@@ -7,26 +7,28 @@ date: 2016-09-07
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
-**Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.**
+**Time**: 9:30-11:30
 
-**To book a place, please complete the attached [booking form](/docs/HWL-Booking-Form-june-2016.doc) and send to**[**enquirieshwl@lanarkshire.scot.nhs.uk**](mailto:enquirieshwl@lanarkshire.scot.nhs.uk)**.**
+Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
- **For further information on any of the training courses/workshop or to discuss in-house training options, please contact the team at**[**enquirieshwl@lanarkshire.scot.nhs.uk**](mailto:enquirieshwl@lanarkshire.scot.nhs.uk)**or call Kirsty on 01698 206385.**
+To book a place, please complete the attached [booking form](/docs/HWL-Booking-Form-june-2016.doc) and send to [enquirieshwl@lanarkshire.scot.nhs.uk](mailto:enquirieshwl@lanarkshire.scot.nhs.uk).
 
- **Please note that all courses will entail an administration fee of £20.00 per participant.**
+For further information on any of the training courses/workshop or to discuss in-house training options, please contact the team at [enquirieshwl@lanarkshire.scot.nhs.uk](mailto:enquirieshwl@lanarkshire.scot.nhs.uk) or call Kirsty on 01698 206385.
 
- **Please note if attending ‘Supporting Staff Attendance’ session, ‘Fit for Work’ is FREE.**
+Please note that all courses will entail an administration fee of £20.00 per participant.
 
- **Please note if attending ‘Fire Safety Awareness ‘,‘An introduction to Fire Risk Assessment’ is _FREE._**
+Please note if attending ‘Supporting Staff Attendance’ session, ‘Fit for Work’ is FREE.
 
- **Please contact the team for costs for booking IOSH Managing Safely /Mental Health First Aid.**
+Please note if attending ‘Fire Safety Awareness ‘,‘An introduction to Fire Risk Assessment’ is FREE.
 
- **To book the National - Work Positive: Managing Organisational Stress (Based on HSE Management Standards) training please contact the  Adviceline 0800 019 2211 or email  adviceline@nhs.net (FREE event)**
+Please contact the team for costs for booking IOSH Managing Safely /Mental Health First Aid.**
 
- **We look forward to meeting you at one of the training courses/workshops.**
+To book the National - Work Positive: Managing Organisational Stress (Based on HSE Management Standards) training please contact the  Adviceline 0800 019 2211 or email  adviceline@nhs.net (FREE event)
+
+We look forward to meeting you at one of the training courses/workshops.
 
 
-** *The Healthy Working Lives Team (Lanarkshire)* **
+*The Healthy Working Lives Team (Lanarkshire)*
 
 *Lesley, Mary, Simon, Gillian, Kirsty*
 
