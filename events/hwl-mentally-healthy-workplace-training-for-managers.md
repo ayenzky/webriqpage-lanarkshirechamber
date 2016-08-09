@@ -2,7 +2,7 @@
 title: "HWL: Mentally Healthy Workplace Training for  Managers"
 shortdesc: Healthy Working Lives Training Programme 2016
 cmsUserSlug: ""
-date: null
+date: 2016-09-13 
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
