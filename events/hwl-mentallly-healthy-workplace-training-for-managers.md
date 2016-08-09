@@ -1,15 +1,17 @@
 ---
-title: HWL Training Programme
-shortdesc: Stress in the workplace
-cmsUserSlug: ""
-date: 2016-09-07 
+title: HWL: Mentally Healthy Workplace Training for  Managers
+shortdesc: Healthy Working Lives Training Programme 2016
+cmsUserSlug: hwl-mentallly-healthy-workplace-training-for-managers
+date: 2016-09-13
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
+**Time**: 9:30-4:30
+
 **Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.**
 
-**To book a place, please complete the attached [booking form](HWL%20Booking%20Form%20june%202016.doc) and send to**[**enquirieshwl@lanarkshire.scot.nhs.uk**](mailto:enquirieshwl@lanarkshire.scot.nhs.uk)**.**
+**To book a place, please complete the attached [booking form](/docs/HWL-Booking-Form-june-2016.doc) and send to**[**enquirieshwl@lanarkshire.scot.nhs.uk**](mailto:enquirieshwl@lanarkshire.scot.nhs.uk)**.**
 
  **For further information on any of the training courses/workshop or to discuss in-house training options, please contact the team at**[**enquirieshwl@lanarkshire.scot.nhs.uk**](mailto:enquirieshwl@lanarkshire.scot.nhs.uk)**or call Kirsty on 01698 206385.**
 
@@ -28,6 +30,7 @@ date: 2016-09-07
 
 ** *The Healthy Working Lives Team (Lanarkshire)* **
 
- 
+*Lesley, Mary, Simon, Gillian, Kirsty*
 
-    
+
+
