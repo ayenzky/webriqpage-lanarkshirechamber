@@ -5,9 +5,9 @@ cmsUserSlug: ""
 date: 2016-08-17 
 ---
 
- *** An invitation to tell us how we can help your business
+*** An invitation to tell us how we can help your business
 
- UWS is moving into Hamilton International Technology Park (HITP) with its first students anticipated in September 2017. This will provide a state-of-the-art, modern university campus, just over two miles from the existing site on Almada Street, Hamilton. The campus will include teaching and learning facilities, student accommodation, specialist laboratory space and a Students’ Union.  
+UWS is moving into Hamilton International Technology Park (HITP) with its first students anticipated in September 2017. This will provide a state-of-the-art, modern university campus, just over two miles from the existing site on Almada Street, Hamilton. The campus will include teaching and learning facilities, student accommodation, specialist laboratory space and a Students’ Union.  
 
  The existing campus contributes £69.3 million to the economy, and supports 771 jobs in South Lanarkshire. The estimated additional economic benefit of the campus over the next 25 years could be as high as £1.9 billion (BiGGAR Economics report 2015).  
 
