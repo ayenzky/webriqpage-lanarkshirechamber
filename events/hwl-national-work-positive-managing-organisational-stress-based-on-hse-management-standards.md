@@ -1,11 +1,11 @@
 ---
 title: "HWL: National - Work Positive: Managing Organisational Stress (Based on HSE Management Standards)"
 shortdesc: Healthy Working Lives Training Programme October 2016
-cmsUserSlug: ""
-date: 2016-10-24 
+cmsUserSlug: hwl-national-work-positive-managing-organisational-stress-based-on-hse-management-standards
+date: 2016-10-24T00:00:00.000Z
 ---
 
-**Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
+**Venue**: LAMH Recyle, 29 Range Road, Motherwell, ML1 2HR
 
 **Time**: 9:30-4:30
 
