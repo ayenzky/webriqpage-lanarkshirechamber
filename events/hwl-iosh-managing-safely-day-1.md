@@ -11,6 +11,10 @@ date: 2016-10-25T00:00:00.000Z
 
 **Time**: 9:30-4:30
 
+**Note**: Participants must attend all 4 days
+
+---
+
 Did you know that  611,000 injuries occurred at work according to the Labour Force Survey, of which 152,000 led to over-7-days absence, with rates of 2,030 and 500 per 100,000 workers respectively (Health & Safety Statistics 2014-2015 )?Health and safety should not be a responsibility assigned to a particular individual or part of an organisation, but an integral part of everyone’s role.Managing of health and safety, employers and organisations are required by law to ensure that their health and safety arrangements are appropriate for their organisation and at the very least meet their legal responsibilities. The following sessions will offer practical advice and guidance to workplaces who need additional support with managing health and safety.
 
 ### Outline
