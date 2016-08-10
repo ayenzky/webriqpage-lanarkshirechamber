@@ -1,13 +1,35 @@
 ---
 title: "HWL: Lone Working & Domiciliary Visits"
 shortdesc: Healthy Working Lives Training Programme February 2017
-cmsUserSlug: ""
-date: 2017-02-09 
+cmsUserSlug: hwl-lone-working-domiciliary-visits
+date: 2017-02-09T00:00:00.000Z
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
+**Date**: Thursday 9 February 2017
+
 **Time**: 9:30-12:30
+
+---
+
+Did you know that  611,000 injuries occurred at work according to the Labour Force Survey, of which 152,000 led to over-7-days absence, with rates of 2,030 and 500 per 100,000 workers respectively (Health & Safety Statistics 2014-2015 )?Health and safety should not be a responsibility assigned to a particular individual or part of an organisation, but an integral part of everyone’s role.Managing of health and safety, employers and organisations are required by law to ensure that their health and safety arrangements are appropriate for their organisation and at the very least meet their legal responsibilities. The following sessions will offer practical advice and guidance to workplaces who need additional support with managing health and safety.
+
+### Outline
+
+This session will focus on the following:
+
+Increase awareness of hazards and risks associated with lone working and domiciliary visits
+
+Increase knowledge of principles of risk assessment
+
+Increase knowledge of control measures
+
+Increase confidence to undertake sensible risk assessment for lone working and domiciliary visits
+
+---
+
+### Healthy Working Lives
 
 Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
@@ -21,7 +43,7 @@ Please note if attending ‘Supporting Staff Attendance’ session, ‘Fit for W
 
 Please note if attending ‘Fire Safety Awareness ‘,‘An introduction to Fire Risk Assessment’ is FREE.
 
-Please contact the team for costs for booking IOSH Managing Safely /Mental Health First Aid.**
+Please contact the team for costs for booking IOSH Managing Safely /Mental Health First Aid.
 
 To book the National - Work Positive: Managing Organisational Stress (Based on HSE Management Standards) training please contact the  Adviceline 0800 019 2211 or email  adviceline@nhs.net (FREE event)
 
