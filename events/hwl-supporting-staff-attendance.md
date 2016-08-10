@@ -11,6 +11,8 @@ date: 2016-11-15T00:00:00.000Z
 
 **Time**: 9:30-11:30
 
+Did you know that over 130 million days are lost to sickness absence every year and it is well recognised that being out of work for long periods is damaging to health and financial well-being?  Does your workplace have good practice focussing on careful and supportive management of staff attendance through both illness and non-work related issues ? If not, the following training/awareness sessions would be beneficial  as a starting point to considering what your workplace may need to implement which can lead to  increased staff performance, loyalty and   productivity.
+
 ### Outline
 
 This workshop aims to
@@ -22,11 +24,11 @@ who have responsibility for line management of staff within small businesses
 (less than 250 staff) and who would like to know more on how to support staff
 attendance more effectively.
 
-Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
-
 ---
 
-### How to Book
+### Healthy Working Lives
+
+Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
 To book a place, please complete the attached [booking form](/docs/HWL-Booking-Form-june-2016.doc) and send to [enquirieshwl@lanarkshire.scot.nhs.uk](mailto:enquirieshwl@lanarkshire.scot.nhs.uk).
 
