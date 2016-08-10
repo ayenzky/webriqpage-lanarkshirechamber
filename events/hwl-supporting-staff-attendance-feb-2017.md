@@ -1,13 +1,32 @@
 ---
 title: "HWL: Supporting Staff Attendance (Feb. 2017)"
 shortdesc: Healthy Working Lives Training Programme February 2017
-cmsUserSlug: ""
-date: 2017-02-15 
+cmsUserSlug: hwl-supporting-staff-attendance-feb-2017
+date: 2017-02-15T00:00:00.000Z
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
+**Date**: Tuesday 15 November 2016
+
 **Time**: 9:30-11:30
+
+### Outline
+
+This workshop aims to
+provide participants with an introduction to supporting staff attendance,
+development and implementation of policy and managing return to work.
+
+Suitable for individuals
+who have responsibility for line management of staff within small businesses
+(less than 250 staff) and who would like to know more on how to support staff
+attendance more effectively.
+
+Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
+
+---
+
+### How to Book
 
 Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
