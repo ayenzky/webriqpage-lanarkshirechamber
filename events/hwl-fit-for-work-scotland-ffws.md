@@ -1,7 +1,7 @@
 ---
 title: "HWL: Fit For Work Scotland (FfWS)"
 shortdesc: Healthy Working Lives Training Programme February 2017
-cmsUserSlug: ""
+cmsUserSlug: hwl-fit-for-work-scotland-ffws
 date: 2017-02-15T00:00:00.000Z
 ---
 
@@ -21,6 +21,8 @@ Fit for Work Scotland (FfWS) is a free advice and assessment service designed to
 * Why the service is needed?
 * How the service works for both employer and employee?
 * How the service can  support staff attendance?
+
+---
 
 ### Healthy Working Lives
 
