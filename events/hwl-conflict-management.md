@@ -1,13 +1,29 @@
 ---
 title: "HWL: Conflict Management "
 shortdesc: Healthy Working Lives Training Programme November 2016
-cmsUserSlug: ""
-date: 2016-11-02 
+cmsUserSlug: hwl-conflict-management
+date: 2016-11-02T00:00:00.000Z
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
+**Date**: Wednesday 2 November 2016
+
 **Time**: 9:30-11:30
+
+---
+
+Did you know that all employers have legal responsibility under the Health and Safety at Work Act 1974 and Management of Health and Safety at Work Regulations 1999 to ensure the health safety and welfare at work of their employees which  includes minimising the risk of stress-related illness or injury to employees?
+
+Healthier workforces are more productive, and being recognised as an employer that takes the health and wellbeing of employees seriously reflects positively on the reputation and culture of any organisation.  The following sessions will support workplaces to demonstrate good practice.
+
+### Outline
+
+Thrown together in a workplace, it is little wonder that teams of individuals with very differing backgrounds, views on life, and working styles will experience conflict.  This taster session examines why it is necessary for managers to tackle conflict quickly and directly, and reviews the skills necessary to do so confidently.
+
+---
+
+### Healthy Working Lives
 
 Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
