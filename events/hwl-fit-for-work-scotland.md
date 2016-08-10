@@ -22,6 +22,8 @@ Fit for Work Scotland (FfWS) is a free advice and assessment service designed to
 * How the service works for both employer and employee?
 * How the service can  support staff attendance?
 
+---
+
 ### Healthy Working Lives
 
 Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
