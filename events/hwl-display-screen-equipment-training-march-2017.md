@@ -35,7 +35,7 @@ Please note if attending ‘Supporting Staff Attendance’ session, ‘Fit for W
 
 Please note if attending ‘Fire Safety Awareness ‘,‘An introduction to Fire Risk Assessment’ is FREE.
 
-Please contact the team for costs for booking IOSH Managing Safely /Mental Health First Aid.**
+Please contact the team for costs for booking IOSH Managing Safely /Mental Health First Aid.
 
 To book the National - Work Positive: Managing Organisational Stress (Based on HSE Management Standards) training please contact the  Adviceline 0800 019 2211 or email  adviceline@nhs.net (FREE event)
 
