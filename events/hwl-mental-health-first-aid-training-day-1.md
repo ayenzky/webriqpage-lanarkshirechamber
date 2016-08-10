@@ -1,13 +1,43 @@
 ---
 title: "HWL: Mental Health First Aid Training Day 1"
 shortdesc: Healthy Working Lives Training Programme November 2016
-cmsUserSlug: ""
-date: 2016-11-23 
+cmsUserSlug: hwl-mental-health-first-aid-training-day-1
+date: 2016-11-23T00:00:00.000Z
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
+**Date**: Wednesday 23 November 2016
+
 **Time**: 9:30-5:00
+
+**Note**: Participants must attend both days
+
+---
+
+Did you know that all employers have legal responsibility under the Health and Safety at Work Act 1974 and Management of Health and Safety at Work Regulations 1999 to ensure the health safety and welfare at work of their employees which  includes minimising the risk of stress-related illness or injury to employees?
+
+Healthier workforces are more productive, and being recognised as an employer that takes the health and wellbeing of employees seriously reflects positively on the reputation and culture of any organisation.  The following sessions will support workplaces to demonstrate good practice.
+
+### Outline
+
+Mental Health First Aid (MHFA) is a nationally accredited 2-day training course designed to give participants the knowledge and skills to recognise the signs of mental ill-health and support someone to seek the right help.
+
+What will I learn on the course?
+
+* How to apply the 5 steps of MHFA
+* How to respond if you believe someone is at risk of suicide.
+* How to give immediate help until professional help is available.
+* What to say and do in a crisis
+* The importance of good listening skills
+* Practice listening and responding
+* Understanding recovery from mental health problems
+* Understanding the connection between mental health problems: Alcohol and Drugs, Discrimination 
+* Some basic information about common mental health problems
+
+---
+
+### Healthy Working Lives
 
 Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
