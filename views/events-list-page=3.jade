@@ -4,7 +4,7 @@ block content
   h1.title-header List of Events
   hr
   .event-wrapper
-    each event in events.orderBy('date', 'asc').slice(10,30)
+    each event in events.orderBy('date', 'asc').slice(40,50)
       .event-items
         h3.event-title
           a(href= event.permalink)= event.title
