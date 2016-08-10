@@ -31,6 +31,9 @@ What will I learn on the course?
 * What to say and do in a crisis
 * The importance of good listening skills
 * Practice listening and responding
+* Understanding recovery from mental health problems
+* Understanding the connection between mental health problems: Alcohol and Drugs, Discrimination 
+* Some basic information about common mental health problems
 
 ---
 
