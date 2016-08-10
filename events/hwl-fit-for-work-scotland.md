@@ -1,13 +1,28 @@
 ---
 title: "HWL: Fit for Work Scotland"
 shortdesc: Healthy Working Lives Training Programme November 2016
-cmsUserSlug: ""
-date: 2016-11-15 
+cmsUserSlug: hwl-fit-for-work-scotland
+date: 2016-11-15T00:00:00.000Z
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
+**Date**: Tuesday 15 November 2016
+
 **Time**: 11:45-12:45
+
+Did you know that over 130 million days are lost to sickness absence every year and it is well recognised that being out of work for long periods is damaging to health and financial well-being?  Does your workplace have good practice focussing on careful and supportive management of staff attendance through both illness and non-work related issues ? If not, the following training/awareness sessions would be beneficial  as a starting point to considering what your workplace may need to implement which can lead to  increased staff performance, loyalty and   productivity.
+
+### Outline
+
+Fit for Work Scotland (FfWS) is a free advice and assessment service designed to help individuals return to work after a period of sickness absence. This awareness session will explain:
+
+* What is Fit for Work Scotland?
+* Why the service is needed?
+* How the service works for both employer and employee?
+* How the service can  support staff attendance?
+
+### Healthy Working Lives
 
 Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
