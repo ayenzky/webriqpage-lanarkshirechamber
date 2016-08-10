@@ -11,6 +11,8 @@ date: 2017-02-15T00:00:00.000Z
 
 **Time**: 11:45-12:45
 
+---
+
 Did you know that over 130 million days are lost to sickness absence every year and it is well recognised that being out of work for long periods is damaging to health and financial well-being?  Does your workplace have good practice focussing on careful and supportive management of staff attendance through both illness and non-work related issues ? If not, the following training/awareness sessions would be beneficial  as a starting point to considering what your workplace may need to implement which can lead to  increased staff performance, loyalty and   productivity.
 
 ### Outline
@@ -38,7 +40,7 @@ Please note if attending ‘Supporting Staff Attendance’ session, ‘Fit for W
 
 Please note if attending ‘Fire Safety Awareness ‘,‘An introduction to Fire Risk Assessment’ is FREE.
 
-Please contact the team for costs for booking IOSH Managing Safely /Mental Health First Aid.**
+Please contact the team for costs for booking IOSH Managing Safely /Mental Health First Aid.
 
 To book the National - Work Positive: Managing Organisational Stress (Based on HSE Management Standards) training please contact the  Adviceline 0800 019 2211 or email  adviceline@nhs.net (FREE event)
 
