@@ -1,13 +1,39 @@
 ---
 title: "HWL: Mentally Healthy Workplace Training for Managers  (March 2017)"
 shortdesc: Healthy Working Lives Training Programme March 2017
-cmsUserSlug: ""
-date: 2017-03-14 
+cmsUserSlug: hwl-mentally-healthy-workplace-training-for-managers-march-2017
+date: 2017-03-14T00:00:00.000Z
 ---
 
 **Venue**:  Atrium Business Centre, North Caldeen Road, Coatbridge, ML5 4EF
 
+**Date**: Tuesday 14 March 2017
+
 **Time**: 9:30-4:30
+
+---
+
+Did you know that all employers have legal responsibility under the Health and Safety at Work Act 1974 and Management of Health and Safety at Work Regulations 1999 to ensure the health safety and welfare at work of their employees which  includes minimising the risk of stress-related illness or injury to employees?
+
+Healthier workforces are more productive, and being recognised as an employer that takes the health and wellbeing of employees seriously reflects positively on the reputation and culture of any organisation.  The following sessions will support workplaces to demonstrate good practice.
+
+### Outline
+
+This session is designed to encourage good practice in promoting positive mental health and well-being. 
+
+The training is designed to:
+
+* Provide managers with a broad awareness of mental health
+* Identify the key factors that contribute to a mentally healthy workplace
+* Increase awareness of mental health issues in the workplace
+* Improve skills and confidence in dealing with mental health and well-being in the workplace
+* Ensure that managers are aware of their responsibilities in relation to health and well-being.
+
+Please note  that an eLearning course (1 hour) requires to be completed prior to attendance.
+
+---
+
+### Healthy Working Lives
 
 Healthy Working Lives training courses/workshops are a local resource offering further support  to workplaces to maintain, implement and develop good practice with a focus on  health, safety and wellbeing in workplace.
 
