@@ -1,8 +1,8 @@
 ---
 title: 2015 - The year of the Pension
-subtitle: ""
+subtitle: Savers will have more choice in retirement thanks to dramatic changes.
 banner: /img/craig-southern.jpg
-shortdesc: Savers will have more choice in retirement thanks to dramatic changes.
+shortdesc: "The terms \"excitement\" and \"pensions\" rarely converge, but this is an exciting year in the pensions world."
 cmsUserSlug: 2015-the-year-of-the-pension
 date: 2015-03-31T00:00:00.000Z
 ---
@@ -17,3 +17,6 @@ There is a serious need to promote a savings culture in the UK.
 Households must become less dependent on the state to provide for them in retirement and start making their own provisions in order to maintain the same quality of life.
 2015 will take a big step in the right direction with more people automatically enrolled into pension schemes and positive changes to the way you can take your pension in retirement.
 For further information please contact SFS Investments on 01698 269977 or email sfs@southernfinancialservices.com
+
+![image]( /img/bobnetworking.jpg  )
+![image]( /img/buzzinlogos.jpg )
