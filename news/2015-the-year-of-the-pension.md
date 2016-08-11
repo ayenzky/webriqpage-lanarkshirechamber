@@ -17,6 +17,3 @@ There is a serious need to promote a savings culture in the UK.
 Households must become less dependent on the state to provide for them in retirement and start making their own provisions in order to maintain the same quality of life.
 2015 will take a big step in the right direction with more people automatically enrolled into pension schemes and positive changes to the way you can take your pension in retirement.
 For further information please contact SFS Investments on 01698 269977 or email sfs@southernfinancialservices.com
-
-![image]( /img/bobnetworking.jpg  )
-![image]( /img/buzzinlogos.jpg )
