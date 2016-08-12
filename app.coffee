@@ -42,8 +42,8 @@ module.exports =
       site: { file: "data/site.json" }
     ),
     roots_config(api_url: api_url, static_items: 2),
-    collections(folder: 'news', layout: 'post'),
-    collections(folder: 'page', layout: 'page'),
+    collections(folder: 'news', layout: 'page'),
+    collections(folder: 'pages', layout: 'page'),
     collections(folder: 'events', layout: 'page'),
     collections(folder: 'archives', layout: 'page'),
     collections(folder: 'slider', layout: 'post'),
