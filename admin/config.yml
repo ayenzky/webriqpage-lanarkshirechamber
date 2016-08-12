@@ -60,7 +60,7 @@ collections: # A list of collections the CMS should be able to edit
   #             - {label: "Url ex.(/page/slug)", name: "url", widget: "string"}
   - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Page"  # Used in the UI, ie.: "New Post"
-    folder: "page" # The path to the folder where the documents are stored
+    folder: "pages" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
