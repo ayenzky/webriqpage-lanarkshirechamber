@@ -2,7 +2,7 @@
 title: Meet the Buyer Event
 subtitle: Rutherglen Links
 banner: /img/meet-the-buyer-rutherglen-links.jpg
-shortdesc: "To book a place please visit [http://www.sdpscotland.co.uk/events/rutherglen-links](http://www.sdpscotland.co.uk/events/rutherglen-links)"
+shortdesc: "To book a place please visit http://www.sdpscotland.co.uk/events/rutherglen-links"
 cmsUserSlug: ""
 date: 2016-08-19 
 ---
