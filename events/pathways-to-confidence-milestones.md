@@ -11,6 +11,8 @@ date: 2016-10-26
 
 **Location**: October @ GLO Centre Motherwell
 
+___
+
 The Wm Grant Foundation has been the catalyst for an exciting Third Sector project across the Hamilton/Blantyre/Uddingston/Bellshill and Viewpark areas of Lanarkshire.
 
 COVEY BEFRIENDING based in Hamilton has partnered with Bellshill and Mossend YMCA to provide support to vulnerable young people and their families. Already 18 months in they are seeing a significant positive impact for the families.
