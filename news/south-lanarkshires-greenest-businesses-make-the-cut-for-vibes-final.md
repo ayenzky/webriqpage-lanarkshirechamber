@@ -3,8 +3,8 @@ title: South Lanarkshire’s greenest businesses make the cut for VIBES final
 subtitle: VIBES Awards 2016
 banner: /img/gillian-bruce-chair-of-vibes-awards-compressed.jpg
 shortdesc: Levenseat Ltd and Re-Tek UK Limited in South Lanarkshire are among the 32 Scottish companies that have been shortlisted for this year’s Vision in Business for the Environment of Scotland (VIBES) Awards following a record number of entries.
-cmsUserSlug: ""
-date: 2016-08-09 
+cmsUserSlug: south-lanarkshires-greenest-businesses-make-the-cut-for-vibes-final
+date: 2016-08-09T00:00:00.000Z
 ---
 
 Levenseat Ltd and Re-Tek UK Limited in South Lanarkshire are among the 32 Scottish companies that have been shortlisted for this year’s Vision in Business for the Environment of Scotland (VIBES) Awards following a record number of entries. 
