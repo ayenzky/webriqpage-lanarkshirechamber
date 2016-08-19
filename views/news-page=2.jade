@@ -3,7 +3,7 @@ extends layout
 block content
 	h1.title-header Latest News
 	hr
-	each newss in news.orderBy('date', 'desc').slice(0, 10)
+	each newss in news.orderBy('date', 'desc').slice(20, 30)
 		.news-item
 			h3.news-title
 				a(href=newss.permalink)= newss.title
