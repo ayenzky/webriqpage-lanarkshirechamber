@@ -19,3 +19,5 @@ Harris Finance will soon commence development of Plot C at Rutherglen Links as p
 * Intumescent painting
 
 If you have a business in one of these areas you may wish to attend the following event where representatives from Harris Finance, South Lanarkshire Council and the Supplier Development Programme will be on hand to give information on how you can tender for these works.
+
+To book a place please visit [http://www.sdpscotland.co.uk/events/rutherglen-links](http://www.sdpscotland.co.uk/events/rutherglen-links)
