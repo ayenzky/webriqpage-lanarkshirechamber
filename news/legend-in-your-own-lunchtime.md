@@ -2,7 +2,7 @@
 title: Legend In Your Own Lunchtime
 subtitle: Which Do You Want To Do? Write A Book Or Sell More Stuff
 banner: /img/liyol-crowdgrabber-fiona.jpg
-shortdesc: "  **It was great to catch up again and thank you for all your help and support.**  "
+shortdesc: It was great to catch up again and thank you for all your help and support.
 cmsUserSlug: ""
 date: 2016-08-19 
 ---
