@@ -11,4 +11,6 @@ We’d like to invite you to an upcoming lunchtime workshop that we think you wi
 
 If you’ve ever struggled to get business, wondered how you can reach more people, and wasted money on advertising that didn’t work, we’re here to help you become A MARKETING ROCKSTAR!
 
+You can also visit [Legend](http://thescottishspeechcoach.co.uk/legend/) for more information about this event.
+
   
