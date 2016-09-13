@@ -10,30 +10,4 @@ date: 2016-09-22
 **Time**: 4.30 - 6.00PM | 10.00 - 2.00PM
 
 **Location**: UNIT 1 AVONDALE PARADE,  STRATHCLYDE BUSINESS PARK,  BELLSHILL, ML4 3NJ
-___ 
-
-![](/img/dress-for-success.jpg)
-
-### THURSDAY 22ND SEPTEMBER
-
-#### **4.30 – 6.00PM**
-
-### FRIDAY 23ND SEPTEMBER
-
-#### **10.00 – 2.00PM**
-
-* LOTS OF BARGAINS
-
-* DRESSES-SEPARATES 
-
-* HANDBAGS, SHOES
-
-* JEWELLERY
-
-UNIT 1 AVONDALE PARADE, STRATHCLYDE BUSINESS PARK, BELLSHILL, ML4 3NJ Charity No :SC041288
-
-Email: [dressforsuccessscotland@btconnect.com](mailto:dressforsuccessscotland@btconnect.com)
-
-**for more details**
-
-  
+___
