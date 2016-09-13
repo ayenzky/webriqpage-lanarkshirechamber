@@ -2,7 +2,7 @@
 title: Meet the Buyer Event - Rutherglen Links
 shortdesc: Harris Finance will soon commence development of Plot C at Rutherglen Links as part of the Clyde Gateway regeneration.
 cmsUserSlug: ""
-date: 2016-08-31 
+date: 2016-08-31T00:00:00.000Z
 ---
 
 **Date**:  Wednesday 31 August 2016
