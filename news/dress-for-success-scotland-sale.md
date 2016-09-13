@@ -7,8 +7,6 @@ cmsUserSlug: ""
 date: 2016-09-13 
 ---
 
-![](/img/dress-for-success.jpg)
-
 ### THURSDAY 22ND SEPTEMBER
 
 #### **4.30 – 6.00PM**
