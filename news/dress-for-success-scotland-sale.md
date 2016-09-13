@@ -1,10 +1,10 @@
 ---
 title: Dress For Success - Scotland ( SALE )
-subtitle: SALE 22nd - 22nd of September
+subtitle: SALE 22nd - 23nd of September
 banner: /img/dress-for-success.jpg
 shortdesc: "SALE on Thursday 22nd September (4.30 - 6.00PM) , Friday 23nd September (10.00 - 2.00PM) - Lots of Bargains, Dress-Separates, Handbags, Shoes, Jewellery.\n\n    "
 cmsUserSlug: ""
-date: 2016-09-13 
+date: 2016-09-13T00:00:00.000Z
 ---
 
 ### THURSDAY 22ND SEPTEMBER
