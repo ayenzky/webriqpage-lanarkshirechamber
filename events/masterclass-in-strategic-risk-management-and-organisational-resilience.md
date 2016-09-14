@@ -5,11 +5,11 @@ cmsUserSlug: ""
 date: 2016-10-25 
 ---
 
-**Venue:** Paisley Campus, Paisley PA1 2BE
+**Venue**: Paisley Campus, Paisley PA1 2BE
 
-**Date:** Tue 25th &amp; Wed 26th October 2016
+**Date**: Tue 25th &amp; Wed 26th October 2016
 
-**Time:** 9:30am - 4:30pm
+**Time**: 9:30am - 4:30pm
 
 Presented by Professor Edward P. Borodzicz, this introductory two-day masterclass has been designed to explore how preventative measures such as strategic risk management can help defend an organisation from hazards and threats and promote organisational resilience. It assumes no prior knowledge of the topic and introduces some of the latest research on managing risk from the human sciences. This masterclass provides vital information and advice for anyone responsible for managing risk in an organisational context. It will also be of interest to senior staff in local and central government agencies, business continuity managers, insurance buyers, the security and emergency services, legal and regulators.
 
