@@ -13,9 +13,9 @@ date: 2016-10-25
 
 Presented by Professor Edward P. Borodzicz, this introductory two-day masterclass has been designed to explore how preventative measures such as strategic risk management can help defend an organisation from hazards and threats and promote organisational resilience. It assumes no prior knowledge of the topic and introduces some of the latest research on managing risk from the human sciences. This masterclass provides vital information and advice for anyone responsible for managing risk in an organisational context. It will also be of interest to senior staff in local and central government agencies, business continuity managers, insurance buyers, the security and emergency services, legal and regulators.
 
-  **Topics will include:**
+ **Topics will include:**
 
-  * Theoretical perspectives on risk including the social construction of risk, risk perception, social amplification of risk and risk communication;
+* Theoretical perspectives on risk including the social construction of risk, risk perception, social amplification of risk and risk communication;
 * Legislation and policy issues and strategic risk management;
 * Tools and techniques for assessing and managing strategic risk;
 * Identification of cultural barriers to effective risk management and the development of resilient organisations;
