@@ -1,8 +1,8 @@
 ---
 title: 2015 - The year of the Pension
-subtitle: ""
+subtitle: Savers will have more choice in retirement thanks to dramatic changes.
 banner: /img/craig-southern.jpg
-shortdesc: Savers will have more choice in retirement thanks to dramatic changes.
+shortdesc: "The terms \"excitement\" and \"pensions\" rarely converge, but this is an exciting year in the pensions world."
 cmsUserSlug: 2015-the-year-of-the-pension
 date: 2015-03-31T00:00:00.000Z
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Lanarkshire LEADER Rural Communities Conference: Communities Connected"
 subtitle: Thursday 1st September 2016 5.00 p.m.
-banner: /img/gillian-bruce-chair-of-vibes-awards-compressed.jpg
+banner: /img/rural.jpg
 shortdesc: "South Lanarkshire Lifestyles Carluke, Carnwath Road, Carluke, ML8 4DF  "
 cmsUserSlug: lanarkshire-leader-rural-communities-conference-communities-connected
 date: 2016-08-09T00:00:00.000Z
